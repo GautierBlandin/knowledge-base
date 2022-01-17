@@ -24,3 +24,23 @@ I created this as a summary of all the self-learning I'm doing in order to provi
   * Heaps
   
 </details>
+
+<details>
+  <summary>Algorithms</summary>
+  
+  * Binary Search
+  * Knuth Shuffle
+  * Selection Sort
+  * Insertion Sort
+  * Merge Sort
+  * Quick Sort
+  
+</details>
+
+<details>
+  <summary>Time & Space Complexities</summary>
+  
+  * Big O
+  * Amortized cost
+  
+</details>
