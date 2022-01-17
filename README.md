@@ -4,7 +4,7 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 ## Computer Science
 
 <details>
-  <summary>   Programming Principles</summary>
+  <summary>\   Programming Principles</summary>
   
   * SOLID Principles
   * DRY / AHA
