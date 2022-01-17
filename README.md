@@ -57,5 +57,25 @@ For every item in the list, there are links for the ressources I used to learn i
   
 </details>
 
-* Dynamic Programming
+<details>
+  <summary>Graph Theory</summary>
+  
+  * General concepts
+  * Breadth-first search
+  * Depth-first search
+  
+</details>
 
+<details>
+  <summary>Dynamic programming</summary>
+  
+  * Optimal sub-structure
+  * Overlapping sub-problems
+  
+</details>
+
+## Web Standards
+  
+  * HTTP
+  * OAuth 2.0
+ 
