@@ -6,6 +6,21 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 <details>
   <summary>General Concepts</summary>
   
-   * With some
-   * Sub bullets
+  * SOLID Principles
+  * DRY / AHA
+  * Design Patterns
+  * Twelve Factor App
+  
+</details>
+
+<details>
+  <summary>Datastructures</summary>
+  
+  * Arrays
+  * Linked Lists
+  * Stacks and Queues
+  * Binary Trees
+  * Hash Tables
+  * Heaps
+  
 </details>
