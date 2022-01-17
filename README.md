@@ -4,8 +4,8 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 ## Computer Science
 <details>
   <summary>General concepts</summary>
-  ### SOLID Principles
-  ### Design Patterns
-  ### DRY / AHA
-  ### The twelve factor app
+  - SOLID Principles
+  - Design Patterns
+  - DRY / AHA
+  - The twelve factor app
 </details>
