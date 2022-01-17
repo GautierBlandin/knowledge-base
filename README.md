@@ -87,9 +87,9 @@ For every item in the list, there are links for the ressources I used to learn i
  
 ## Front-end development
   
+  * Design principles
   * HTML
   * CSS
-  * Design
   * React
   * Next
 
