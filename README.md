@@ -6,6 +6,6 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 <details>
   <summary>Click to expand!</summary>
   
-     * With some
-     * Sub bullets
+   * With some
+   * Sub bullets
 </details>
