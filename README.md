@@ -4,7 +4,7 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 ## Computer Science
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>General Concepts</summary>
   
    * With some
    * Sub bullets
