@@ -1,13 +1,25 @@
 # Knowledge Base
 I created this as a summary of all the self-learning I'm doing in order to provide recruiters or other CS students with a view of my areas of competence and also as a To-Do list that gives me an overview of the things I want to learn.
 
+For every item in the list, there are links for the ressources I used to learn it, the notes and flashcard that I wrote to remember it and, if appicable, links to my own implementations or project making use of the concept.
+
 ## Computer Science
 
 <details>
-  <summary>\   Programming Principles</summary>
+  <summary>Programming Principles</summary>
   
   * SOLID Principles
   * DRY / AHA
+  * Design Patterns
+  * Twelve Factor App
+  
+</details>
+
+<details>
+  <summary>Programming Techniques</summary>
+  
+  * Memoization
+  * Fluent interfaces
   * Design Patterns
   * Twelve Factor App
   
