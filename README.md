@@ -4,12 +4,20 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 ## Computer Science
 
 <details>
-  <summary>General Concepts</summary>
+  <summary>Programming Principles</summary>
   
   * SOLID Principles
   * DRY / AHA
   * Design Patterns
   * Twelve Factor App
+  
+</details>
+
+<details>
+  <summary>Time & Space Complexities</summary>
+  
+  * Big O
+  * Amortized cost
   
 </details>
 
@@ -37,10 +45,5 @@ I created this as a summary of all the self-learning I'm doing in order to provi
   
 </details>
 
-<details>
-  <summary>Time & Space Complexities</summary>
-  
-  * Big O
-  * Amortized cost
-  
-</details>
+  * Dynamic Programming
+
