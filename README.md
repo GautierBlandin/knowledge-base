@@ -6,7 +6,7 @@ For every item in the list, there are links for the ressources I used to learn i
 ~items~ styled with strikethrough are items that I do not know yet but plan to learn.
 Items with a WIP tag next to them are items on which I've started to work upon, but am not satisfied with my level of knowledge yet.
 
-## Overview
+# Overview
 
 ### Computer Science
 
@@ -165,7 +165,7 @@ Items with a WIP tag next to them are items on which I've started to work upon, 
 
 --- 
 
-## Details
+# Details
 
 <h4> SOLID Principles </h4>
 <a href="https://www.remnote.com/a/solid-design-principles/61e68e64849524001676e093"> Flashcards & Notes </a>
