@@ -3,12 +3,14 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 
 For every item in the list, there are links for the ressources I used to learn it, the notes and flashcard that I wrote to remember it and, if appicable, links to my own implementations or project making use of the concept. ~items~ styled with strikethrough are items that I do not know yet but plan to learn.
 
-## Computer Science
+## Overview
+
+### Computer Science
 
 <details>
   <summary>Programming Principles</summary>
   
-  * SOLID Principles
+  * [SOLID Principles](## Mathematics)
   * DRY / AHA
   * Design Patterns
   * Twelve Factor App
@@ -74,18 +76,18 @@ For every item in the list, there are links for the ressources I used to learn i
   
 </details>
 
-## Mathematics
+### Mathematics
   
   * ~Probabilities & Statistics~
   * ~Fourier Transform~
   * ~Geometry~
 
-## Web Standards
+### Web Standards
   
   * HTTP
   * OAuth 2.0
  
-## Front-end development
+### Front-end development
   
   * Design principles
   * HTML
@@ -93,19 +95,19 @@ For every item in the list, there are links for the ressources I used to learn i
   * React
   * Next
 
-## Back-end development
+### Back-end development
   
   * Express
   * Nest
   * TypeORM
 
-## DevOps
+### DevOps
 
   * CI/CD
   * Docker
   * Ansible
 
-## Programming languages
+### Programming languages
   
 <details>
   <summary>Javascript</summary>
@@ -149,4 +151,4 @@ For every item in the list, there are links for the ressources I used to learn i
 
 --- 
 
-# Details
+## Details
