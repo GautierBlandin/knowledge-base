@@ -23,8 +23,8 @@ Every item in the list links to the resources I used to understand it, and most 
   <summary>Programming Techniques</summary>
   
   <ul>
-    <li><a href""> Memoization</a></li>
-    <li><a href""> Fluent interfaces</a></li>
+    <li><a href"#memoization"> Memoization</a></li>
+    <li><a href"#fluent_interface"> Fluent interfaces</a></li>
   </ul>
 
 </details>
@@ -189,3 +189,17 @@ Every item in the list links to the resources I used to understand it, and most 
 
 <h4 id="twelve_factors"> <a href="https://12factor.net/"> Twelve-Factor App </a></h4>
 
+<h4 id="memoization"> Memoization </h4>
+
+- [Flashcard](https://www.remnote.com/a/memoization/61e69bb6849524001676e1c9)
+- [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
+
+<h4 id="fluent_interface"><a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
+
+<h4 id="time_space_complexity"> Times & Space Complexity </h4>
+
+- [Flashcards & Notes](https://www.remnote.com/a/time-space-complexity/61e69f27849524001676e1de)
+- [Big O](https://en.wikipedia.org/wiki/Big_O_notation)
+- Amortized Analysis :
+  - [Coursera (free)](https://www.coursera.org/learn/data-structures/lecture/hzlEI/amortized-analysis-aggregate-method)
+  - Wiki : https://en.wikipedia.org/wiki/Amortized_analysis
