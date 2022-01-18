@@ -10,7 +10,7 @@ For every item in the list, there are links for the ressources I used to learn i
 <details>
   <summary>Programming Principles</summary>
   
-  
+  <br>
   <ul>
     <li><a href""> SOLID Principles</a></li>
     <li><a href""> DRY / AHA</a></li>
