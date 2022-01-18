@@ -10,6 +10,10 @@ For every item in the list, there are links for the ressources I used to learn i
 <details>
   <summary>Programming Principles</summary>
   
+  <ul>
+    <li>DRY / AHA</li>
+  </ul>
+  
   * [SOLID Principles](## Mathematics)
   * DRY / AHA
   * Design Patterns
