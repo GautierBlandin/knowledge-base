@@ -9,8 +9,7 @@ For every item in the list, there are links for the ressources I used to learn i
 
 <details>
   <summary>Programming Principles</summary>
-  
-  <br>
+
   <ul>
     <li><a href""> SOLID Principles</a></li>
     <li><a href""> DRY / AHA</a></li>
@@ -23,59 +22,69 @@ For every item in the list, there are links for the ressources I used to learn i
 <details>
   <summary>Programming Techniques</summary>
   
-  * Memoization
-  * Fluent interfaces
-  * Design Patterns
-  * Twelve Factor App
-  
+  <ul>
+    <li><a href""> Memoization</a></li>
+    <li><a href""> Fluent interfaces</a></li>
+  </ul>
+
 </details>
 
 <details>
   <summary>Time & Space Complexities</summary>
   
-  * Big O
-  * Amortized cost
+  <ul>
+    <li><a href""> Big O</a></li>
+    <li><a href""> Amortized cost</a></li>
+  </ul>
   
 </details>
 
 <details>
   <summary>Datastructures</summary>
   
-  * Arrays
-  * Linked Lists
-  * Stacks and Queues
-  * Binary Trees
-  * Hash Tables
-  * Heaps
-  
+  <ul>
+    <li><a href""> Arrays</a></li>
+    <li><a href""> Linked Lists</a></li>
+    <li><a href""> Stacks and Queues</a></li>
+    <li><a href""> Binary Trees</a></li>
+    <li><a href""> Hash Tables</a></li>
+    <li><a href""> Heaps</a></li>
+  </ul>
+
 </details>
 
 <details>
   <summary>Algorithms</summary>
   
-  * Binary Search
-  * Knuth Shuffle
-  * Selection Sort
-  * Insertion Sort
-  * Merge Sort
-  * Quick Sort
+  <ul>
+    <li><a href="">Binary Search </a></li>
+    <li><a href="">Knuth Shuffle </a></li>
+    <li><a href="">Selection Sort </a></li>
+    <li><a href="">Insertion Sort </a></li>
+    <li><a href="">Merge Sort </a></li>
+    <li><a href="">Quick Sort </a></li>
+  </ul>
   
 </details>
 
 <details>
   <summary>Graph Theory</summary>
   
-  * General concepts
-  * Breadth-first search
-  * Depth-first search
+  <ul>
+    <li><a href="">General Concepts </a></li>
+    <li><a href="">Breadth-first search </a></li>
+    <li><a href="">Depth-first search </a></li>
+  </ul>
   
 </details>
 
 <details>
   <summary>Dynamic programming</summary>
   
-  * Optimal sub-structure
-  * Overlapping sub-problems
+  <ul>
+    <li><a href="">Optimal sub-structure </a></li>
+    <li><a href="">Overlapping sub-problems </a></li>
+  </ul>
   
 </details>
 
