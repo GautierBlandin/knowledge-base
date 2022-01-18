@@ -181,7 +181,7 @@ Every item in the list links to the resources I used to understand it, and most 
 
 - [Original GoF book](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Modern approach : refactoring.guru](https://refactoring.guru/design-patterns)
-- Flashcards  & Notes 
+- Flashcards  & Notes :
   - [Introduction & key concepts](https://www.remnote.com/a/introduction-key-concepts-and-definitions/61a5530bb61d3100160b9c78)
   - [Creational Patterns](https://www.remnote.com/a/creational-patterns/61e697d1178e620016e1d3bb)
   - [Structural Patterns](https://www.remnote.com/a/structural-patterns/61a5530bffeb1400164cb357)
