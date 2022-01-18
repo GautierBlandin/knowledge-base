@@ -14,7 +14,7 @@ For every item in the list, there are links for the ressources I used to learn i
   * DRY / AHA
   * Design Patterns
   * Twelve Factor App 
-  <br> 
+
   [Pascal](https://twitter.com/askpascalandy/)
   
 </details>
