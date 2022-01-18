@@ -168,7 +168,7 @@ Items with a WIP tag next to them are items on which I've started to work upon, 
 # Details
 
 <h4> SOLID Principles </h4>
-  - <a href="https://www.remnote.com/a/solid-design-principles/61e68e64849524001676e093"> Flashcards & Notes </a>
-  - [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
 
-  
+- <a href="https://www.remnote.com/a/solid-design-principles/61e68e64849524001676e093"> Flashcards & Notes </a>
+- [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
+
