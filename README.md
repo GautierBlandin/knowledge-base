@@ -175,5 +175,15 @@ Every item in the list links to the resources I used to understand it, and most 
 
 <h4 id="dry"> DRY / AHA </h4>
 
-- [Flashcards & Notes](
+- [Don't Repeat Yourself, but Avoid Hasty Abstractions](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
+<h4 id="design_patterns"> Design Patterns </h4>
+
+- [Original GoF book](https://en.wikipedia.org/wiki/Design_Patterns)
+- [Modern approach : refactoring.guru](https://refactoring.guru/design-patterns)
+- Flashcards  & Notes 
+  - [Introduction & key concepts](https://www.remnote.com/a/introduction-key-concepts-and-definitions/61a5530bb61d3100160b9c78)
+  - [Creational Patterns](https://www.remnote.com/a/creational-patterns/61e697d1178e620016e1d3bb)
+  - [Structural Patterns](https://www.remnote.com/a/structural-patterns/61a5530bffeb1400164cb357)
+  - [Behavioral Patterns](https://www.remnote.com/a/behavioral-patterns/61e6947f4a52720016f389f7)
 
