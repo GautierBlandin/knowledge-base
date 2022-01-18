@@ -164,5 +164,5 @@ For every item in the list, there are links for the ressources I used to learn i
 
 ## Details
 
-<h6> SOLID Principles </h6>
+<h4> SOLID Principles </h6>
   
