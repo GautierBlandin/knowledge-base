@@ -13,7 +13,8 @@ For every item in the list, there are links for the ressources I used to learn i
   * [SOLID Principles](## Mathematics)
   * DRY / AHA
   * Design Patterns
-  * Twelve Factor App
+  * Twelve Factor App 
+  <br> 
   [Pascal](https://twitter.com/askpascalandy/)
   
 </details>
