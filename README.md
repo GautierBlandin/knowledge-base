@@ -11,10 +11,10 @@ Every item in the list links to the resources I used to understand it, and most 
   <summary>Programming Principles</summary>
 
   <ul>
-    <a href"#solid"><li> SOLID Principles</li></a>
-    <li><a href"#dry"> DRY / AHA</a></li>
-    <li><a href"#desgin_patterns"> Design Patterns</a></li>
-    <li><a href"#twelve_factor"> Twelve Factor App</a></li>
+    <li><a href="#solid"> SOLID Principles</a></li>
+    <li><a href="#dry"> DRY / AHA</a></li>
+    <li><a href="#desgin_patterns"> Design Patterns</a></li>
+    <li><a href="#twelve_factor"> Twelve Factor App</a></li>
   </ul>
 
 </details>
