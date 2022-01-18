@@ -5,8 +5,6 @@ For every item in the list, there are links for the ressources I used to learn i
 
 ## Overview
 
-<a href="#test_id"> test ? </a>
-
 ### Computer Science
 
 <details>
@@ -166,5 +164,5 @@ For every item in the list, there are links for the ressources I used to learn i
 
 ## Details
 
-### Computer Science
-  <span id="test_id"> testtest </span>
+<h6> SOLID Principles </h6>
+  
