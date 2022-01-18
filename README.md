@@ -11,7 +11,7 @@ For every item in the list, there are links for the ressources I used to learn i
   <summary>Programming Principles</summary>
   
   <ul>
-    <li><a href="https://twitter.com/askpascalandy/"> DRY / AHA</a></li>
+    <li><a href="# Mathematics"> DRY / AHA</a></li>
   </ul>
   
   * [SOLID Principles](## Mathematics)
