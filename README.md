@@ -1,5 +1,5 @@
 # Knowledge Base
-I created this as a summary of all the self-learning I'm doing in order to provide recruiters or other CS students with an overview of my areas of competence and also as a To-Do list that gives me an clear view of the things I plan to learn in the near future.
+I created this as a summary of all the self-learning I'm doing in order to provide recruiters or other CS students with an overview of my areas of competence and also as a To-Do list that gives me an clear view of the concepts or skills I plan to learn in the near future.
 
 Every item in the list links to the resources I used to understand it, and most of them also link to the notes and flashcards that I wrote for the item. If applicable, my implementations or related projects are linked too. ~items~ styled with strikethrough are items that I do not know yet but plan to learn.
 
@@ -11,10 +11,10 @@ Every item in the list links to the resources I used to understand it, and most 
   <summary>Programming Principles</summary>
 
   <ul>
-    <li><a href""> SOLID Principles</a></li>
-    <li><a href""> DRY / AHA</a></li>
-    <li><a href""> Design Patterns</a></li>
-    <li><a href""> Twelve Factor App</a></li>
+    <li><a href"#solid"> SOLID Principles</a></li>
+    <li><a href"#dry"> DRY / AHA</a></li>
+    <li><a href"#desgin_patterns"> Design Patterns</a></li>
+    <li><a href"#twelve_factor"> Twelve Factor App</a></li>
   </ul>
 
 </details>
@@ -186,4 +186,6 @@ Every item in the list links to the resources I used to understand it, and most 
   - [Creational Patterns](https://www.remnote.com/a/creational-patterns/61e697d1178e620016e1d3bb)
   - [Structural Patterns](https://www.remnote.com/a/structural-patterns/61a5530bffeb1400164cb357)
   - [Behavioral Patterns](https://www.remnote.com/a/behavioral-patterns/61e6947f4a52720016f389f7)
+
+<h4 id="twelve_factors"> <a href="https://12factor.net/"> Twelve-Factor App </a></h4>
 
