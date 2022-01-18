@@ -10,17 +10,14 @@ For every item in the list, there are links for the ressources I used to learn i
 <details>
   <summary>Programming Principles</summary>
   
+  
   <ul>
-    <li><a href="#mathematics"> DRY / AHA</a></li>
+    <li><a href""> SOLID Principles</a></li>
+    <li><a href""> DRY / AHA</a></li>
+    <li><a href""> Design Patterns</a></li>
+    <li><a href""> Twelve Factor App</a></li>
   </ul>
-  
-  * [SOLID Principles](## Mathematics)
-  * DRY / AHA
-  * Design Patterns
-  * Twelve Factor App 
 
-  [Pascal](https://twitter.com/askpascalandy/)
-  
 </details>
 
 <details>
