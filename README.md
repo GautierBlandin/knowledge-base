@@ -14,7 +14,7 @@ Every item in the list links to the resources I used to understand it, and most 
     <li><a href="#solid"> SOLID Principles</a></li>
     <li><a href="#dry"> DRY / AHA</a></li>
     <li><a href="#desgin_patterns"> Design Patterns</a></li>
-    <li><a href="#twelve_factor"> Twelve Factor App</a></li>
+    <li><a href="#twelve_factors"> Twelve Factor App</a></li>
   </ul>
 
 </details>
@@ -23,8 +23,8 @@ Every item in the list links to the resources I used to understand it, and most 
   <summary>Programming Techniques</summary>
   
   <ul>
-    <li><a href"#memoization"> Memoization</a></li>
-    <li><a href"#fluent_interface"> Fluent interfaces</a></li>
+    <li><a href="#memoization"> Memoization</a></li>
+    <li><a href="#fluent_interface"> Fluent interfaces</a></li>
   </ul>
 
 </details>
