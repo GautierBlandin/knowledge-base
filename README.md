@@ -1,7 +1,10 @@
 # Knowledge Base
 I created this as a summary of all the self-learning I'm doing in order to provide recruiters or other CS students with an view of my areas of competence and also as a To-Do list that gives me an overview of the things I want to learn.
 
-For every item in the list, there are links for the ressources I used to learn it, the notes and flashcard that I wrote to remember it and, if appicable, links to my own implementations or project making use of the concept. ~items~ styled with strikethrough are items that I do not know yet but plan to learn.
+For every item in the list, there are links for the ressources I used to learn it, the notes and flashcard that I wrote to remember it and, if appicable, links to my own implementations or project making use of the concept. 
+
+~items~ styled with strikethrough are items that I do not know yet but plan to learn.
+Items with a WIP tag next to them are items on which I've started to work upon, but am not satisfied with my level of knowledge yet.
 
 ## Overview
 
@@ -164,5 +167,7 @@ For every item in the list, there are links for the ressources I used to learn i
 
 ## Details
 
-<h4> SOLID Principles </h6>
+<h4> SOLID Principles </h4>
+<a href="https://www.remnote.com/a/solid-design-principles/61e68e64849524001676e093"> Flashcards & Notes </a>
+
   
