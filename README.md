@@ -146,3 +146,7 @@ For every item in the list, there are links for the ressources I used to learn i
   * JSON
   * LaTeX
   * PlantUML
+
+--- 
+
+# Details
