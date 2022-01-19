@@ -153,7 +153,7 @@ Every item in the list links to the resources I used to understand it, and most 
   
 </details>
 
-## Markup Languages
+### Markup Languages
 
   * YAML
   * JSON
