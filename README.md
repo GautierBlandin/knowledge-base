@@ -90,9 +90,19 @@ Every item in the list links to the resources I used to understand it, and most 
 
 ### Mathematics
   
-  * ~Probabilities & Statistics~
-  * ~Fourier Transform~
-  * ~Geometry~
+  <details>
+  <summary><a href = "#probabilities_statistics"> Probabilities & Statistics </a></summary>
+
+  <ul>
+    <li><a href="#sample_space_probability"> Sample Space & Probability</a></li>
+    <li><a href="#discrete_random_variables">Discrete Random Variables</a></li>
+    <li><a href="#general_random_variables">General Random Variables</a></li>
+  </ul>
+
+</details>
+  * ~Real analysis~
+  * ~Linear Algebra~
+  * ~Analytic Geometry~
 
 ### Web Standards
   
@@ -164,6 +174,8 @@ Every item in the list links to the resources I used to understand it, and most 
 
 # Details
 
+## Computer Science
+
 <h4 id="solid"> SOLID Principles </h4>
 
 - <a href="https://www.remnote.com/a/solid-design-principles/61e68e64849524001676e093"> Flashcards & Notes </a>
@@ -203,3 +215,29 @@ Every item in the list links to the resources I used to understand it, and most 
 - Amortized Analysis :
   - [Coursera (free)](https://www.coursera.org/learn/data-structures/lecture/hzlEI/amortized-analysis-aggregate-method)
   - Wiki : https://en.wikipedia.org/wiki/Amortized_analysis
+
+##Mathematics
+
+<h4 id="probabilities_statistics"> Probabilities & Statistics </h4>
+
+The only resource used for this section is the excellent book Introduction to Probability by D. Bertsekas and K. Tsitsiklis which is available <a href = "https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X">here</a>. Because of that, only my notes and flashcards are going to be linked.
+
+- <span id = sample_space_probability></span>[Sample Space and Probability](https://www.remnote.com/a/sample-space-and-probability/61eac608388024001602b7c2)
+  - [Sets](https://www.remnote.com/a/sets/61e80f38268d0a0035d34b18)
+  - [Probabilitis Model](https://www.remnote.com/a/probabilistic-model/61e6f07461d80e00160246b6)
+  - [Conditional Probabilities](https://www.remnote.com/a/conditional-probabilities/61e806aef72a3c00160c2521)
+  - [Bernoulli trials](https://www.remnote.com/a/bernoulli-trials-/61eac608fe181600161c93e3)
+  - [Counting](https://www.remnote.com/a/counting/61eac608fe181600161c93e0)
+- [Discrete Random Variables](https://www.remnote.com/a/discrete-random-variables/61eac6ffc9c6ed00168fb9ee)
+  - [Basic Concepts](https://www.remnote.com/a/basic-concepts/61eac6ff5e4cec001681a8db)
+  - [Common Discrete Random Variables](https://www.remnote.com/a/common-discrete-random-variables/61eac6ff5e4cec001681a8d8)
+  - [Expectation, Mean and Variance](https://www.remnote.com/a/expectation-mean-and-variance/61eac6ff388024001602b7d0)
+  - [Functions of Random Variables]
+  - [Joint PMFs]
+  - [Conditional PMFs]
+- [General Random Variables]
+  - [Continuous Random Variables]
+  - [Expectation and Variance]
+  - [Common Continuous Random Variables]
+  - [Normal Random Variable]
+  - [Cumulative Distribution Functions]
