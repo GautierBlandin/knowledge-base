@@ -221,7 +221,7 @@ Every item in the list links to the resources I used to understand it, and most 
 
 <h4 id="probabilities_statistics"> Probabilities & Statistics </h4>
 
-The only resource used for this section is the excellent book Introduction to Probability by D. Bertsekas and K. Tsitsiklis which is available <a href = "https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X">here</a>. Because of that, only my notes and flashcards are going to be linked.
+The only resource used for this section is the excellent book <b>Introduction to Probability</b> by D. Bertsekas and K. Tsitsiklis which is available <a href = "https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X">here</a>. Because of that, only my notes and flashcards are going to be linked.
 
 - <span id = sample_space_probability></span>[Sample Space and Probability](https://www.remnote.com/a/sample-space-and-probability/61eac608388024001602b7c2)
   - [Sets](https://www.remnote.com/a/sets/61e80f38268d0a0035d34b18)
