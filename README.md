@@ -100,6 +100,7 @@ Every item in the list links to the resources I used to understand it, and most 
   </ul>
 
 </details>
+
   * ~Real analysis~
   * ~Linear Algebra~
   * ~Analytic Geometry~
@@ -216,7 +217,7 @@ Every item in the list links to the resources I used to understand it, and most 
   - [Coursera (free)](https://www.coursera.org/learn/data-structures/lecture/hzlEI/amortized-analysis-aggregate-method)
   - Wiki : https://en.wikipedia.org/wiki/Amortized_analysis
 
-##Mathematics
+## Mathematics
 
 <h4 id="probabilities_statistics"> Probabilities & Statistics </h4>
 
