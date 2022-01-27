@@ -3,10 +3,18 @@ I created this as a summary of all the self-learning I'm doing in order to provi
 
 Every item in the list links to the resources I used to understand it, and most of them also link to the notes and flashcards that I wrote for the item. If applicable, my implementations or related projects are linked too. ~items~ styled with strikethrough are items that I do not know yet but plan to learn.
 
-# Philosophy
+### Philosophy
 
-I believe that in order to solve problems efficiently, precise and detailed knowledge of the techniques and technologies available for that propblem space is required. In the case of computer science, it means knowing both the fundamentals of software building (SOLID Principles, datastructures and algorithms, how to do good testing...) and having an in-depth knowledge of the nitty-gritty of the syntax and the frameworks we use. <br>
-This represents a lot of knowledge that needs not only to be acquired and understood, but retained over time in order to easily be able to apply it to concrete problems. This is why I dedicate time everyday to reading and practising new skills, and also why I use modern tools (most notably [RemNote](https://medium.com/@gautier.blandin/remnote-takes-notes-and-remember-them-b2f386aa8f2c)) to keep remembering what I learn over time. 
+I believe that in order to solve problems efficiently, precise and detailed knowledge of the techniques and technologies available for that propblem space is required. In the case of computer science, it means knowing both the fundamentals of software building (SOLID Principles, datastructures and algorithms, how to do good testing, design patterns...) and having an in-depth knowledge of the nitty-gritty of the syntax and the frameworks we use. <br>
+This represents a lot of knowledge that needs not only to be acquired and understood, but retained over time in order to easily be able to apply it to concrete problems. This is why I dedicate time everyday to reading and practising new skills, and also why I use modern tools (most notably [RemNote](https://medium.com/@gautier.blandin/remnote-takes-notes-and-remember-them-b2f386aa8f2c)) to keep remembering what I learn over time. <br>
+
+### How I learn in practice
+
+I spend at least one hour everyday on theorical knowledge, on a variety of subjects, such as software building fundamentals, project managements methods, mathematics, frameworks documentation and concepts, etc. I take notes in the form of questions/answers that enter my knowledge base and let me remember the key ideas from what I've read. <br>
+I also practice what I learn on practical projects, which can be work projects, school projects, and personal projects. When I solve a problem using a method that I find to be interesting, or that taught me some new syntax, I make a note about it. This is how I build my knowledge about [LaTeX](https://www.remnote.com/a/latex/61f2966db459e30016442492) over time, or how I learn to use programming languages such as [Javascript](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c) or [Python](https://www.remnote.com/a/python-/61e68c024a52720016f38972). That approach has two benefits : 
+ - I only learn things that I actually use, because I learn them when I need them
+ - I remember the skill when I need it again, so I don't have to relearn over and over again
+
 
 # Overview
 
