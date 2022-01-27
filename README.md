@@ -51,8 +51,8 @@ The below knowledge base is a compilation of both practical skills and theoretic
   <summary>Time & Space Complexities</summary>
   
   <ul>
-    <li><a href""> Big O</a></li>
-    <li><a href""> Amortized cost</a></li>
+    <li><a href="big_o"> Big O</a></li>
+    <li><a href="amortized_analysis"> Amortized cost</a></li>
   </ul>
   
 </details>
