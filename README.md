@@ -234,6 +234,12 @@ The below knowledge base is a compilation of both practical skills and theoretic
 - <span id="amortized_analysis"> Amortized Analysis :
   - [Coursera (free)](https://www.coursera.org/learn/data-structures/lecture/hzlEI/amortized-analysis-aggregate-method)
   - Wiki : https://en.wikipedia.org/wiki/Amortized_analysis
+ 
+#### Datastructures
+
+ - [Flashcards & Notes](https://www.remnote.com/a/hash-tables/61f2a07753bfe900160ea37c)
+ - [Arrays](https://www.remnote.com/a/arrays/61f2a077021aff0016fe3ce5)
+ - - [Coursera lecture](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
 
 ## Mathematics
 
