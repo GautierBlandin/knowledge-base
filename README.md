@@ -238,8 +238,12 @@ The below knowledge base is a compilation of both practical skills and theoretic
 #### Datastructures
 
  - [Flashcards & Notes](https://www.remnote.com/a/hash-tables/61f2a07753bfe900160ea37c)
- - [Arrays](https://www.remnote.com/a/arrays/61f2a077021aff0016fe3ce5)
+ - <span id="arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f2a077021aff0016fe3ce5)
    - [Coursera lecture](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
+ - <span id="linked_lists">[Linked Lists](https://www.remnote.com/a/linked-lists/61f2a077021aff0016fe3ce8)
+   - [Coursera lecture on singly linked lists](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+   - [Coursera lecture on doubly linked lists](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
+ - <span id="stacks_and_queues"/>[Stacks and Queues](https://www.remnote.com/a/stacks-and-queues/61f2a077b459e30016442569)
 
 ## Mathematics
 
