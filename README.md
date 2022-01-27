@@ -2,7 +2,7 @@
 
 ### Introduction
 
-I created this as a summary of all the self-learning I'm doing in order to provide recruiters or other CS students with an overview of my areas of competence and also as a To-Do list that gives me an clear view of the concepts or skills I plan to learn in the near future.
+I created this as a compilation of all the self-learning I'm doing in order to provide recruiters or other CS students with an overview of my areas of competence and also as a To-Do list that gives me an clear view of the concepts or skills I plan to learn in the near future.
 
 Every item in the list links to the resources I used to understand it, and most of them also link to the notes and flashcards that I wrote for the item. If applicable, my implementations or related projects are linked too. ~items~ styled with strikethrough are items that I do not know yet but plan to learn. 
 
@@ -13,13 +13,13 @@ This represents a lot of knowledge that needs not only to be acquired and unders
 
 ### How I learn in practice
 
-
 I learn a lot doing practical projects, which can be work projects, school projects, and personal projects. When I solve a problem using a method that I find to be interesting, or that taught me some new syntax, I make a note about it. This is how I build my knowledge about [LaTeX](https://www.remnote.com/a/latex/61f2966db459e30016442492) over time, or how I learn to use programming languages such as [Javascript](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c) or [Python](https://www.remnote.com/a/python-/61e68c024a52720016f38972). That approach has two benefits : 
  - I only learn things that I actually use, because I learn them when I need them
  - I remember the skill when I need it again, so I don't have to relearn over and over again <br>
 
-Although practical knowledge is both important and necessary (what good is knowledge if you can't apply it?), I do believe that theory also has its place, as in a lot of situations, what you can do in practice will be limited by your knowledge about what your possibilites are. For example, you could spend your whole life writing cumbersome for-loops in javascript when you could use simple methods such as array.map, simply because you've never read about them. This is why I spend at least one hour everyday on theorical knowledge, on a variety of subjects, such as software building fundamentals, project managements methods, mathematics, frameworks documentation and concepts, etc. I take notes in the form of questions/answers that enter my knowledge base and let me remember the key ideas from what I've read.  <br>
+Although practical knowledge is both important and necessary (what good is knowledge if you can't apply it?), I do believe that theory also has its place, as in a lot of situations, what you can do in practice will be limited by your knowledge about what your possibilites are. For example, you could spend your whole life writing cumbersome for-loops in javascript when you could use simple methods such as array.map, simply because you've never read about them. This is why I spend at least one hour everyday on theorical knowledge, on a variety of subjects, such as software building fundamentals, project managements methods, mathematics, frameworks documentation and concepts, etc. I take notes in the form of questions/answers that enter my knowledge base and let me remember the key ideas from what I've read.  <br><br>
 
+The below knowledge base is a compilation of both practical skills and theoretical ideas and concepts that I've learned over time.
 
 # Overview
 
