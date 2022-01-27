@@ -19,7 +19,7 @@ I learn a lot doing practical projects, which can be work projects, school proje
 
 Although practical knowledge is both important and necessary (what good is knowledge if you can't apply it?), I do believe that theory also has its place, as in a lot of situations, what you can do in practice will be limited by your knowledge about what your possibilites are. For example, you could spend your whole life writing cumbersome for-loops in javascript when you could use simple methods such as array.map, simply because you've never read about them. This is why I spend at least one hour everyday on theorical knowledge, on a variety of subjects, such as software building fundamentals, project managements methods, mathematics, frameworks documentation and concepts, etc. I take notes in the form of questions/answers that enter my knowledge base and let me remember the key ideas from what I've read.  <br>
 
-The below knowledge base is a compilation of both practical skills and theoretical ideas and concepts that I've learned over time.
+The below knowledge base is a compilation of both practical skills and theoretical ideas and concepts that I've learned over time, with links notes, flashcards, and resources.
 
 # Overview
 
@@ -239,11 +239,29 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
  - [Flashcards & Notes](https://www.remnote.com/a/hash-tables/61f2a07753bfe900160ea37c)
  - <span id="arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f2a077021aff0016fe3ce5)
+   - [My implementation (C++ Dynamic Arrays)](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Vector)
    - [Coursera lecture](https://www.coursera.org/lecture/data-structures/arrays-OsBSF)
  - <span id="linked_lists">[Linked Lists](https://www.remnote.com/a/linked-lists/61f2a077021aff0016fe3ce8)
+   - [My implementation (C++ Doubly Linked List)](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/LinkedLists)
    - [Coursera lecture on singly linked lists](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
    - [Coursera lecture on doubly linked lists](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
- - <span id="stacks_and_queues"/>[Stacks and Queues](https://www.remnote.com/a/stacks-and-queues/61f2a077b459e30016442569)
+   - [Why you should avoid linked lists](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+ - <span id="stacks_and_queues"/>[Stacks & Queues](https://www.remnote.com/a/stacks-and-queues/61f2a077b459e30016442569)
+   - [My implementation (C++ Static and Dynamic queue based on circular buffer)](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Queues)
+   - [Coursera Lecture on Stacks](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
+   - [Coursera Lecture on Queues](https://www.coursera.org/learn/data-structures/lecture/EShpq/queues)
+   - [Circular Buffer on wikipedia](https://en.wikipedia.org/wiki/Circular_buffer)
+ - <span id="hash_tables"/>[Hash Tables](https://www.remnote.com/a/hash-tables/61f2a07753bfe900160ea37c)
+   - [My implementation (C++ Hashmap with string keys, polynomial rolling hash and linear probing)](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/HashTables)
+   - [Coursera Lecture on Hash Tables](https://www.coursera.org/learn/data-structures/lecture/5e8QH/hash-tables)
+   - [Direct adressing method, coursera lecture](https://www.coursera.org/learn/data-structures/lecture/fYKm7/direct-addressing)
+   - [Hash functions, coursera lecture](https://www.coursera.org/learn/data-structures/lecture/1EeyX/hash-functions)
+   - [Chaining method, coursera lecture](https://www.coursera.org/learn/data-structures/lecture/2yY2h/chaining-scheme)
+   - [Linear probing on wikipedia (preferred method)](https://en.wikipedia.org/wiki/Linear_probing)
+ - <span id="heaps_priority_queues"/>[Heaps & Priority Queues](https://www.remnote.com/a/priority-queues-and-heaps/61f2a077b459e3001644256c)
+   - [My implementation](
+   - [Heap and Heap Sort from MIT Open Courseware](https://www.youtube.com/watch?v=B7hVxCmfPtM)
+  - <span id="binary_trees"/>[Binary Trees](https://www.remnote.com/a/trees/61f2a077021aff0016fe3ce2)
 
 ## Mathematics
 
