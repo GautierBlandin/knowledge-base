@@ -5,7 +5,7 @@ Every item in the list links to the resources I used to understand it, and most 
 
 # Philosophy
 
-I believe that in order to solve problems efficiently, precise and detailed knowledge of the techniques and technologies available for that propblem space is required. In the case of computer science, it means knowing both the fundamentals of software building (SOLID Principles, datastructures and algorithms, how to do good testing...) and having an in-depth knowledge of the nitty-gritty of the syntax and the frameworks we use.
+I believe that in order to solve problems efficiently, precise and detailed knowledge of the techniques and technologies available for that propblem space is required. In the case of computer science, it means knowing both the fundamentals of software building (SOLID Principles, datastructures and algorithms, how to do good testing...) and having an in-depth knowledge of the nitty-gritty of the syntax and the frameworks we use. <br>
 This represents a lot of knowledge that needs not only to be acquired and understood, but retained over time in order to easily be able to apply it to concrete problems. This is why I dedicate time everyday to reading and practising new skills, and also why I use modern tools (most notably [RemNote](https://medium.com/@gautier.blandin/remnote-takes-notes-and-remember-them-b2f386aa8f2c)) to keep remembering what I learn over time. 
 
 # Overview
