@@ -122,15 +122,10 @@ The below knowledge base is a compilation of both practical skills and theoretic
   </ul>
 
 </details>
-
-### Web Standards
-  
-  * HTTP
-  * OAuth 2.0
  
 ### Front-end development
   
-  * Design principles
+  * <a href="design">Design</a>
   * HTML
   * CSS
   * React
@@ -141,6 +136,11 @@ The below knowledge base is a compilation of both practical skills and theoretic
   * Express
   * Nest
   * TypeORM
+
+### Web Standards
+  
+  * HTTP
+  * OAuth 2.0
 
 ### DevOps
 
@@ -343,3 +343,42 @@ The only resource used for this section is the excellent book <b>Introduction to
   - [Common Continuous Random Variables](https://www.remnote.com/a/common-continuous-random-variables/61edcf8716a9290016b4cc0e)
   - [Normal Random Variable](https://www.remnote.com/a/normal-random-variable/61edcf86424b8d001662214d)
   - [Cumulative Distribution Functions](https://www.remnote.com/a/cumulative-distribution-functions/61edcf8616a9290016b4cc0b)
+ 
+  ## Front-End Development
+  
+  - <span id="css"/> CSS
+    - [Flashcards & Notes](https://www.remnote.com/a/css/61f3f92c6fa8cd0016ee3f01)
+    - [The Box Model](https://www.remnote.com/w/614f49b8425a7800161dc50b/Qrcquktpt9ocFkcMm)
+    - [Flexbox](https://www.remnote.com/a/61f3f92c264dbc00162a434b)
+      - [CSS Trick's excellent guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - [Text](https://www.remnote.com/w/614f49b8425a7800161dc50b/usp5qokX8sSaD83pB)
+    - [Animations](https://www.remnote.com/a/animations/61f3f92ce0a450001690eda5)
+    - [Transforms](https://www.remnote.com/w/614f49b8425a7800161dc50b/zomNM49iJgEwinD3D)
+    - [Borders](https://www.remnote.com/w/614f49b8425a7800161dc50b/kC38g3veq5hYnyZCB)
+    - [Selectors](https://www.remnote.com/w/614f49b8425a7800161dc50b/2tYrTenJw4vLDm5X8)
+    - [Shapes](https://www.remnote.com/w/614f49b8425a7800161dc50b/G27DChupG8WhhgbZL)
+    - [Shadows](https://www.remnote.com/w/614f49b8425a7800161dc50b/WB2aJqM2s7TPrKmph)
+  - <span id="design"/>Design
+    - Great (paid) [Udemy course](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money) on design using Figma by Vako Svhili
+    - [Flashcards & Notes about design guidelines](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money)
+  - <span id="react"/>React
+    - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/xGmEEdmEBh5Qb6pgh)
+    - [React Documentation](https://reactjs.org/docs/getting-started.html)
+    - [Context API Flashcards](https://www.remnote.com/a/context/61f3f552e1e55c00168bf12d)
+    - [Hooks Flashcards](https://www.remnote.com/a/hooks/61f3f552e1e55c00168bf12c)
+  - <span id="next_js"/>NextJs
+    - [Flashcards & Notes](https://www.remnote.com/a/next-js/61f3f5c503feef001634a56a)
+    - [Navigation](https://www.remnote.com/a/navigation/61f3f5c503feef001634a567)
+    - Font import in a NextJs project
+  - <span id="material_ui"/>Material UI
+    - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/dHo5AosACz4d5Rfs9)
+    - [Styling](https://www.remnote.com/w/614f49b8425a7800161dc50b/adKHw7Qz9EbuoZ2Sc)
+    - [Spacing](https://www.remnote.com/w/614f49b8425a7800161dc50b/cXRfpRHLWYrYMG8Yn)
+    - [Theming](https://www.remnote.com/w/614f49b8425a7800161dc50b/b53SwafaECP6K5mB5)
+ 
+ ## Back-End Development
+ 
+ 
+
+ 
+ 
