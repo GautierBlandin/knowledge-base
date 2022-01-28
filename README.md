@@ -131,9 +131,9 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 ### Back-end development
   
-  * <a href="#express">Express</a>
   * <a href="#nest">Nest</a>
   * <a href="type_orm">TypeORM</a>
+  * <a href="#express">Express</a>
 
 ### Web Standards
   
@@ -340,7 +340,7 @@ The only resource used for this section is the excellent book <b>Introduction to
   - [Normal Random Variable](https://www.remnote.com/a/normal-random-variable/61edcf86424b8d001662214d)
   - [Cumulative Distribution Functions](https://www.remnote.com/a/cumulative-distribution-functions/61edcf8616a9290016b4cc0b)
  
- ## Front-End Development
+ ## <span id="front_end"/>Front-End Development
   
  - <span id="css"/> CSS
    - [Flashcards & Notes](https://www.remnote.com/a/css/61f3f92c6fa8cd0016ee3f01)
@@ -373,6 +373,50 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Spacing](https://www.remnote.com/w/614f49b8425a7800161dc50b/cXRfpRHLWYrYMG8Yn)
    - [Theming](https://www.remnote.com/w/614f49b8425a7800161dc50b/b53SwafaECP6K5mB5)
  
- ## Back-End Development
+ ## <span id="back_end"/>Back-End Development
  
+ - <span id = "nest"/> Nest
+   - [Flashcards & Notes](https://www.remnote.com/a/nestjs/61f422e5e0a450001690f2b1)
+   - [Official document, excellent ressource for the framework and for understanding more about programming](https://docs.nestjs.com/)
+ The notions included in my flashcards are listed below (I haven't had time to take notes past the already very significant "overview" section) :
+   - CLI
+   - Controllers
+   - Providers
+   - Modules
+   - Middleware
+   - Validation
+   - TypeORM Integration
+   
+ - <span id = "type_orm"/> TypeORM
+   - [Flashcards & Notes](https://www.remnote.com/a/typeorm/61f42449e0a450001690f2c4)
+   - [Documentation](https://typeorm.io/)
+ My notes include :
+   - Configuration
+   - Connection object
+   - Repository object and usage
+ 
+ - Express
+   - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/exZnNhQea3RsNgMFT)
+   - [Documentation](https://expressjs.com/en/api.html)
+ My notes include : 
+   - The App object (get, post, use, listen...)
+   - The Request object
+   - The Response object
+   - Middlewares
+
+## <span id="node_js"/> NodeJs
+ - [How to write and publish NPM packages (Flashcards & Notes)](https://www.remnote.com/a/writing-npm-packages-/61f4257fe0a450001690f306)
+ - Axios
+   - [Flashcards & Notes](https://www.remnote.com/a/axios/61f4257f6fa8cd0016ee4170)
+   - [Documentation](https://axios-http.com/docs/intro)
+ Notions included :
+   - Configuration of the Axios Instance
+   - Request configuration
+   - Response object
+   - Interceptors configuration
+ - Dotenv
+   - [Flashcards & Notes (very short)](https://www.remnote.com/a/axios/61f4257f6fa8cd0016ee4170)
+   - [Documentation](https://www.npmjs.com/package/dotenv)
+ Notions included :
+   - Basic Usage
  
