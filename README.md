@@ -26,7 +26,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 ### Computer Science
 
 <details>
-  <summary>Programming Principles</summary>
+ <summary><a href="#programming_principles">Programming Principles</a></summary>
 
   <ul>
     <li><a href="#solid"> SOLID Principles</a></li>
@@ -38,17 +38,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
-  <summary>Programming Techniques</summary>
-  
-  <ul>
-    <li><a href="#memoization"> Memoization</a></li>
-    <li><a href="#fluent_interface"> Fluent interfaces</a></li>
-  </ul>
-
-</details>
-
-<details>
-  <summary>Time & Space Complexities</summary>
+ <summary><a href="#time_space_complexities">Time & Space Complexities</a></summary>
   
   <ul>
     <li><a href="#big_o"> Big O</a></li>
@@ -58,7 +48,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
-  <summary>Datastructures</summary>
+ <summary><a href="#datastructures">Datastructures</a></summary>
   
   <ul>
     <li><a href""> Arrays</a></li>
@@ -72,7 +62,8 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
-  <summary>Algorithms</summary>
+ 
+ <summary><a href="#algorithms">Algorithms></a></summary>
   
   <ul>
     <li><a href="">Binary Search </a></li>
@@ -82,11 +73,21 @@ The below knowledge base is a compilation of both practical skills and theoretic
     <li><a href="">Merge Sort </a></li>
     <li><a href="">Quick Sort </a></li>
   </ul>
+
+ </details>
+ 
+ <details>
+ <summary><a href="#programming_techniques">Programming Techniques</a></summary>
+  
+  <ul>
+    <li><a href="#memoization"> Memoization</a></li>
+    <li><a href="#fluent_interface"> Fluent interfaces</a></li>
+  </ul>
   
 </details>
 
 <details>
-  <summary>Graph Theory</summary>
+ <summary><a href="#graph_theory">Graph Theory</a></summary>
   
   <ul>
     <li><a href="">General Concepts </a></li>
@@ -97,7 +98,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
-  <summary>Dynamic programming</summary>
+ <summary><a href="dynamic_programming">Dynamic programming</a></summary>
   
   <ul>
     <li><a href="">Optimal sub-structure </a></li>
@@ -194,6 +195,8 @@ The below knowledge base is a compilation of both practical skills and theoretic
 # Details
 
 ## Computer Science
+
+### <span id="programming_principles"/>Programming Principles
 
 <h4 id="solid"> SOLID Principles </h4>
 
