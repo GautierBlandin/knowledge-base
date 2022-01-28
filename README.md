@@ -66,12 +66,12 @@ The below knowledge base is a compilation of both practical skills and theoretic
  <summary><a href="#algorithms">Algorithms</a></summary>
   
   <ul>
-    <li><a href="">Binary Search </a></li>
-    <li><a href="">Knuth Shuffle </a></li>
-    <li><a href="">Selection Sort </a></li>
-    <li><a href="">Insertion Sort </a></li>
-    <li><a href="">Merge Sort </a></li>
-    <li><a href="">Quick Sort </a></li>
+    <li><a href="#binary_search">Binary Search </a></li>
+    <li><a href="#knuth_shuffle">Knuth Shuffle </a></li>
+    <li><a href="#selection_sort">Selection Sort </a></li>
+    <li><a href="#insertion_sort">Insertion Sort </a></li>
+    <li><a href="#merge_sort">Merge Sort </a></li>
+    <li><a href="#quick_sort">Quick Sort </a></li>
   </ul>
 
  </details>
@@ -261,6 +261,31 @@ The below knowledge base is a compilation of both practical skills and theoretic
    - [My implementation : Simple binary search tree (not AVL or red/black)](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/BinaryTrees)
    - [Binary search trees from MIT Open Courseware](https://www.youtube.com/watch?v=76dhtgZt38A)
    - [AVL Trees from MIT Open Courseware](https://www.youtube.com/watch?v=U1JYwHcFfso)
+ 
+ <h3 id="algorithms"> Algorithms </h3>
+ 
+ - <span id="binary_search"/> Binary Search
+   - [My implementation : Binary search on a sorted array, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
+   - [Binary search on wikipedia](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
+ - <span id="knuth_shuffle"/> Knuth Shuffle
+   - [My implementation : Knuth Shuffle of a generic array, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
+   - [Shuffling algorithm by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/12vcF/shuffling)
+ 
+ <h4 id="sorting_algorithms"> Sorting Algorithms </h4>
+ 
+ - [Important characteristics](https://www.remnote.com/w/614f49b8425a7800161dc50b/Z7qZ8SqNassAAjr6g)
+ - <span id="selection_sort"/> Selection Sort
+   - [My implementation : Selection sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
+   - [Selection sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/VE0sv/selection-sort)
+ - <span id="insertion_sort"/> Insertion Sort
+   - [My implementation: Insertion sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
+   - [Insertion sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/1hYlN/insertion-sort)
+ - <span id="merge_sort"/> Merge Sort
+   - [My implementation : Merge sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
+   - [Merge sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
+ - <span id="quick_sort"/> Quick Sort
+   - [My implementation : Quick sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
+   - [Quick sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/vjvnC/quicksort)
  
  ### <span id="programming_techniques"/>Programming Techniques
 
