@@ -9,7 +9,7 @@ Every item in the list links to the resources I used to understand it, and most 
 <details>
 <summary></summary> <br>
 I believe that in order to solve problems efficiently, precise and detailed knowledge of the techniques and technologies available for a given propblem space is required. In the case of computer science, it means knowing both the fundamentals of software building (SOLID Principles, datastructures and algorithms, how to do good testing, design patterns...) and having an in-depth knowledge of the nitty-gritty of the syntax and the frameworks to be used. <br>
-This represents a lot of knowledge that needs not only to be acquired and understood, but retained over time in order to easily be able to apply it to concrete problems. This is why I dedicate time everyday to reading and practising new skills, and also why I use modern tools (most notably <a href="https://medium.com/@gautier.blandin/remnote-takes-notes-and-remember-them-b2f386aa8f2c"> RemNote</a>) to keep remembering what I learn over time. <br>
+This represents a lot of informations that needs not only to be acquired and understood, but retained over time in order to easily be able to apply them to concrete problems. This is why I dedicate time everyday to reading on and practising new skills, and also why I use modern tools (most notably <a href="https://medium.com/@gautier.blandin/remnote-takes-notes-and-remember-them-b2f386aa8f2c"> RemNote</a>) to keep remembering what I learn over time. <br>
 
 </details>
 
@@ -17,7 +17,7 @@ This represents a lot of knowledge that needs not only to be acquired and unders
 
 <details>
  <summary></summary> <br>
-I learn a lot doing practical projects, which can be work projects, school projects, and personal projects. When I solve a problem using a method that I find to be interesting, or that taught me some new syntax, I make a note about it. This is how I build my knowledge about <a href="https://www.remnote.com/a/latex/61f2966db459e30016442492">LaTeX</a> over time, or how I learn to use programming languages such as <a href="https://www.remnote.com/a/javascript/61f296c37613f00016bf958c">Javascript</a> or <a href="https://www.remnote.com/a/python-/61e68c024a52720016f38972">Python</a>. That approach has two benefits : 
+I learn a lot doing practical projects, which can be work projects, school projects, or personal projects. When I solve a problem using a method that I find to be interesting, or that taught me some new syntax, I make a note about it. This is how I build my knowledge about <a href="https://www.remnote.com/a/latex/61f2966db459e30016442492">LaTeX</a> over time, or how I learn to use programming languages such as <a href="https://www.remnote.com/a/javascript/61f296c37613f00016bf958c">Javascript</a> or <a href="https://www.remnote.com/a/python-/61e68c024a52720016f38972">Python</a>. That approach has two benefits : 
 <ul>
  <li> I only learn things that I actually use, because I learn them as I go</li>
  <li> I remember the skill when I need it again, so I don't have to relearn over and over again </li>
