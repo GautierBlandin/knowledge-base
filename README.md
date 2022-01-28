@@ -307,7 +307,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
    - Briges and articulation points
    - Minimum spanning tree
    - Network max flow
- - <span id="graph_theory_algorithms"> [Algorithms](https://www.remnote.com/a/algorithms/61f3ea8803feef001634a470
+ - <span id="graph_theory_algorithms"> [Algorithms](https://www.remnote.com/a/algorithms/61f3ea8803feef001634a470)
    - Breadth-First Search
    - Depth-First Search
  
