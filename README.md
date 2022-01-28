@@ -122,29 +122,40 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 </details>
  
-### Front-end development
+### <a href="#front_end">Front-end development</a>
   
   * <a href="#css">CSS</a>
   * <a href="#design">Design</a>
   * <a href="#react">React</a>
   * <a href="#next_js">Next</a>
 
-### Back-end development
+### <a href="#back_end">Back-end development</a>
   
   * <a href="#nest">Nest</a>
-  * <a href="type_orm">TypeORM</a>
+  * <a href="#type_orm">TypeORM</a>
   * <a href="#express">Express</a>
+
+### <a href="#node_js">NodeJs</a>
+
+  * <a href="#npm_write_packages">How to write and publish NPM packages </a>
+  * <a href="#axios">Axios</a>
+  * <a href="#dotenv">Dotenv</a>
 
 ### Web Standards
   
   * HTTP
   * OAuth 2.0
 
+
+<!--
+
 ### DevOps
 
   * CI/CD
   * Docker
   * Ansible
+
+-->
 
 ### Programming languages
   
@@ -402,15 +413,15 @@ The only resource used for this section is the excellent book <b>Introduction to
      - Middlewares
 
 ## <span id="node_js"/> NodeJs
- - [How to write and publish NPM packages (Flashcards & Notes)](https://www.remnote.com/a/writing-npm-packages-/61f4257fe0a450001690f306)
- - Axios
+ - <span id="npm_write_packages"/>[How to write and publish NPM packages (Flashcards & Notes)](https://www.remnote.com/a/writing-npm-packages-/61f4257fe0a450001690f306)
+ - <span id="axios"/>Axios
    - [Documentation](https://axios-http.com/docs/intro)
    - [Flashcards & Notes](https://www.remnote.com/a/axios/61f4257f6fa8cd0016ee4170). They include :
      - Configuration of the Axios Instance
      - Request configuration
      - Response object
      - Interceptors configuration
- - Dotenv
+ - <span id="dotenv">Dotenv
    - [Documentation](https://www.npmjs.com/package/dotenv)
    - [Flashcards & Notes (very short)](https://www.remnote.com/a/axios/61f4257f6fa8cd0016ee4170). They include :
      - Basic Usage
