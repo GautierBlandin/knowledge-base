@@ -32,7 +32,6 @@ The below knowledge base is a compilation of both practical skills and theoretic
     <li><a href="#solid"> SOLID Principles</a></li>
     <li><a href="#dry"> DRY / AHA</a></li>
     <li><a href="#desgin_patterns"> Design Patterns</a></li>
-    <li><a href="#twelve_factors"> Twelve Factor App</a></li>
   </ul>
 
 </details>
@@ -113,7 +112,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 ### Mathematics
   
   <details>
-  <summary><a href = "#probabilities_statistics"> Probabilities & Statistics </a></summary>
+  <summary><a href="#probabilities_statistics"> Probabilities & Statistics </a></summary>
 
   <ul>
     <li><a href="#sample_space_probability"> Sample Space & Probability</a></li>
@@ -125,17 +124,16 @@ The below knowledge base is a compilation of both practical skills and theoretic
  
 ### Front-end development
   
-  * <a href="design">Design</a>
-  * HTML
-  * CSS
-  * React
-  * Next
+  * <a href="#css">CSS</a>
+  * <a href="#design">Design</a>
+  * <a href="#react">React</a>
+  * <a href="#next_js">Next</a>
 
 ### Back-end development
   
-  * Express
-  * Nest
-  * TypeORM
+  * <a href="#express">Express</a>
+  * <a href="#nest">Nest</a>
+  * <a href="type_orm">TypeORM</a>
 
 ### Web Standards
   
@@ -197,7 +195,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 ### <span id="programming_principles"/>Programming Principles
 
-<h5 id="solid"> SOLID Principles </h4>
+<h5 id="solid"> SOLID Principles </h5>
 
 - <a href="https://www.remnote.com/a/solid-design-principles/61e68e64849524001676e093"> Flashcards & Notes </a>
 - [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
@@ -206,11 +204,11 @@ The below knowledge base is a compilation of both practical skills and theoretic
 - [Interface Segregation Principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
 - [Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 
-<h5 id="dry"> DRY / AHA </h4>
+<h5 id="dry"> DRY / AHA </h5>
 
 - [Don't Repeat Yourself, but Avoid Hasty Abstractions](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
-<h5 id="design_patterns"> Design Patterns </h4>
+<h5 id="design_patterns"> Design Patterns </h5>
 
 - [Original GoF book](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Modern approach : refactoring.guru](https://refactoring.guru/design-patterns)
@@ -220,9 +218,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
   - [Structural Patterns](https://www.remnote.com/a/structural-patterns/61a5530bffeb1400164cb357)
   - [Behavioral Patterns](https://www.remnote.com/a/behavioral-patterns/61e6947f4a52720016f389f7)
 
-<h5 id="twelve_factors"> <a href="https://12factor.net/"> Twelve-Factor App </a></h4>
-
-<h3 id="time_space_complexity"> Times & Space Complexity </h4>
+<h3 id="time_space_complexity"> Times & Space Complexity </h3>
 
 - [Flashcards & Notes](https://www.remnote.com/a/time-space-complexity/61e69f27849524001676e1de)
 - <span id="big_o"/>[Big O](https://en.wikipedia.org/wiki/Big_O_notation)
@@ -230,7 +226,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
   - [Coursera (free)](https://www.coursera.org/learn/data-structures/lecture/hzlEI/amortized-analysis-aggregate-method)
   - Wiki : https://en.wikipedia.org/wiki/Amortized_analysis
  
- <h3 id="datastructures"> Datastructures </h4>
+ <h3 id="datastructures"> Datastructures </h3>
 
  - [Flashcards & Notes](https://www.remnote.com/a/hash-tables/61f2a07753bfe900160ea37c)
  - <span id="arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f2a077021aff0016fe3ce5)
@@ -344,7 +340,7 @@ The only resource used for this section is the excellent book <b>Introduction to
   - [Normal Random Variable](https://www.remnote.com/a/normal-random-variable/61edcf86424b8d001662214d)
   - [Cumulative Distribution Functions](https://www.remnote.com/a/cumulative-distribution-functions/61edcf8616a9290016b4cc0b)
  
-  ## Front-End Development
+ ## Front-End Development
   
  - <span id="css"/> CSS
    - [Flashcards & Notes](https://www.remnote.com/a/css/61f3f92c6fa8cd0016ee3f01)
@@ -360,7 +356,8 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Shadows](https://www.remnote.com/w/614f49b8425a7800161dc50b/WB2aJqM2s7TPrKmph)
  - <span id="design"/>Design
    - Great (paid) [Udemy course](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money) on design using Figma by Vako Svhili
-   - [Flashcards & Notes about design guidelines](https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money)
+   - [Flashcards & Notes about design guidelines](https://www.remnote.com/a/design/61f3f46e264dbc00162a42d7)
+   - [My design exercises done throughout the course](https://github.com/GautierLearnsProgramming/WebDesign)
  - <span id="react"/>React
    - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/xGmEEdmEBh5Qb6pgh)
    - [React Documentation](https://reactjs.org/docs/getting-started.html)
@@ -377,8 +374,5 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Theming](https://www.remnote.com/w/614f49b8425a7800161dc50b/b53SwafaECP6K5mB5)
  
  ## Back-End Development
- 
- 
-
  
  
