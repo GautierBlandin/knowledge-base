@@ -121,25 +121,40 @@ The below knowledge base is a compilation of both practical skills and theoretic
   </ul>
 
 </details>
- 
-### <a href="#front_end">Front-end development</a>
+
+<details>
+ <summary><h3>Front-end development</h3></summary>
   
-  * <a href="#css">CSS</a>
-  * <a href="#design">Design</a>
-  * <a href="#react">React</a>
-  * <a href="#next_js">Next</a>
-
-### <a href="#back_end">Back-end development</a>
+  <ul>
+    <li><a href="#css">CSS</a></li>
+    <li><a href="#design">Design</a></li>
+    <li><a href="#react">React</a></li>
+    <li><a href="#next_js">Next</a></li>
+  </ul>
   
-  * <a href="#nest">Nest</a>
-  * <a href="#type_orm">TypeORM</a>
-  * <a href="#express">Express</a>
+</details>
 
-### <a href="#node_js">NodeJs</a>
+<details>
+ <summary><h3>Back-end development</h3></summary>
+  
+  <ul>
+    <li><a href="#nest">Nest</a></li>
+    <li><a href="#type_orm">TypeORM</a></li>
+    <li><a href="#express">Express</a></li>
+  </ul>
+  
+</details>
 
-  * <a href="#npm_write_packages">How to write and publish NPM packages </a>
-  * <a href="#axios">Axios</a>
-  * <a href="#dotenv">Dotenv</a>
+<details>
+ <summary><h3>NodeJs</h3></summary>
+  
+  <ul>
+    <li><a href="#npm_write_packages">How to write and publish NPM packages </a></li>
+    <li><a href="#axios">Axios</a></li>
+    <li><a href="#dotenv">Dotenv</a></li>
+  </ul>
+  
+</details>
 
 ### Web Standards
   
