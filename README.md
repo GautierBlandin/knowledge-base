@@ -487,48 +487,48 @@ The only resource used for this section is the excellent book <b>Introduction to
 
 ## Programming Languages
  
- - <span id="javascript"/> Javascript :
-   - [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-   - [Flashcards & Notes](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c). They include : 
-     - <span id="js_basics"/>[Basics](https://www.remnote.com/a/basics/61f296c3b0186500169a3297)
-     - <span id="js_arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f296c3a2e7c600169c2d56) (basics and a lot of methods)
-     - <span id="js_strings"/>[Strings](https://www.remnote.com/a/strings/61f296c353bfe900160ea326) (methods, template literals)
-     - <span id="js_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61f43c5fe0a450001690f3a9)
-     - <span id="js_objects"/>[Objects](https://www.remnote.com/a/objects/61f43c5fe1e55c00168bf545) (iteration, conversion to arrays)
-     - <span id="js_promises"/>[Promises](https://www.remnote.com/a/promises/61f43c5fe95a710016936145)
-     - <span id="js_optional_chaining"/>[Optional Chaining](https://www.remnote.com/a/optional-chaining/61f296c3021aff0016fe3c37)
-     - <span id="js_local_storage"/>[Local Storage](https://www.remnote.com/a/localstorage/61f296c3a2e7c600169c2d53)
-     - <span id="js_base64_encoding"/>[Base64 Encoding/Decoding](https://www.remnote.com/a/base64-encoding/61f296c37613f00016bf958f)
+#### <span id="javascript"/> Javascript :
+ - [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ - [Flashcards & Notes](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c). They include : 
+   - <span id="js_basics"/>[Basics](https://www.remnote.com/a/basics/61f296c3b0186500169a3297)
+   - <span id="js_arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f296c3a2e7c600169c2d56) (basics and a lot of methods)
+   - <span id="js_strings"/>[Strings](https://www.remnote.com/a/strings/61f296c353bfe900160ea326) (methods, template literals)
+   - <span id="js_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61f43c5fe0a450001690f3a9)
+   - <span id="js_objects"/>[Objects](https://www.remnote.com/a/objects/61f43c5fe1e55c00168bf545) (iteration, conversion to arrays)
+   - <span id="js_promises"/>[Promises](https://www.remnote.com/a/promises/61f43c5fe95a710016936145)
+   - <span id="js_optional_chaining"/>[Optional Chaining](https://www.remnote.com/a/optional-chaining/61f296c3021aff0016fe3c37)
+   - <span id="js_local_storage"/>[Local Storage](https://www.remnote.com/a/localstorage/61f296c3a2e7c600169c2d53)
+   - <span id="js_base64_encoding"/>[Base64 Encoding/Decoding](https://www.remnote.com/a/base64-encoding/61f296c37613f00016bf958f)
  
- - <span id="typescript"/> Typescript :
-   - [Official documentation](https://www.typescriptlang.org/docs/)
-   - [Flashcards & Notes](https://www.remnote.com/a/typescript/61f44064264dbc00162a476b). They include :
-     -<span id="ts_types"/> [Types and Type annotations](https://www.remnote.com/a/types-type-annotations/61f4406403feef001634a93a) (quite detailed)
-     -<span id="ts_interfaces"/> [Interfaces and interface extension](https://www.remnote.com/a/interfaces/61f44064e1e55c00168bf587)
- 
- - <span id="python"/> Python :
-   - [Official documentaton](https://docs.python.org/3/)
-   - [Flashcards & Notes](https://www.remnote.com/a/python-/61e68c024a52720016f38972). They include :
-     - <span id="python_strings"/>[Strings](https://www.remnote.com/a/strings-/61e68c02849524001676dfc5) (string interpolation)
-     - <span id="python_lists"/>[Lists](https://www.remnote.com/a/lists/61e68c02178e620016e1d2a0) (list comprehenstion)
-     - <span id="python_classes"/>[Classes](https://www.remnote.com/a/classes/61e68c02178e620016e1d2a3) (declaration, constructor, static variables, generic types)
-     - <span id="python_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61e68c024a52720016f3896f) (iteration, generator expressions, methods operating on iterables)
-     - <span id="python_type_hinting"/>[Type hinting](https://www.remnote.com/a/type-hinting/61e68c025624920016fcea0d) (basic usage, type aliasing, callables, ...)
-     - <span id="python_collections"/>[Collections](https://www.remnote.com/a/collections/61e68c02849524001676dfc4)
+#### <span id="typescript"/> Typescript :
+  - [Official documentation](https://www.typescriptlang.org/docs/)
+  - [Flashcards & Notes](https://www.remnote.com/a/typescript/61f44064264dbc00162a476b). They include :
+    -<span id="ts_types"/> [Types and Type annotations](https://www.remnote.com/a/types-type-annotations/61f4406403feef001634a93a) (quite detailed)
+    -<span id="ts_interfaces"/> [Interfaces and interface extension](https://www.remnote.com/a/interfaces/61f44064e1e55c00168bf587)
+
+- <span id="python"/> Python :
+  - [Official documentaton](https://docs.python.org/3/)
+  - [Flashcards & Notes](https://www.remnote.com/a/python-/61e68c024a52720016f38972). They include :
+    - <span id="python_strings"/>[Strings](https://www.remnote.com/a/strings-/61e68c02849524001676dfc5) (string interpolation)
+    - <span id="python_lists"/>[Lists](https://www.remnote.com/a/lists/61e68c02178e620016e1d2a0) (list comprehenstion)
+    - <span id="python_classes"/>[Classes](https://www.remnote.com/a/classes/61e68c02178e620016e1d2a3) (declaration, constructor, static variables, generic types)
+    - <span id="python_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61e68c024a52720016f3896f) (iteration, generator expressions, methods operating on iterables)
+    - <span id="python_type_hinting"/>[Type hinting](https://www.remnote.com/a/type-hinting/61e68c025624920016fcea0d) (basic usage, type aliasing, callables, ...)
+    - <span id="python_collections"/>[Collections](https://www.remnote.com/a/collections/61e68c02849524001676dfc4)
 
  
- - <span id="markup_languages"/>Markup Languages
-   - <span id="yaml"/> YAML :
-     - [Flashcards & Notes](https://www.remnote.com/a/yaml/61f447266fa8cd0016ee430e)
- 
- - <span id="presentation_languages"/> Presentation Languages
-   - <span id="latex"/> LaTeX :
-     - [Flashcards & Notes](https://www.remnote.com/a/syntax/61f44791264dbc00162a47f1). They include :
-       - Math-mode symbols
-       - Math-mode expressions
-       - Environments
-   - <span id="plant_uml"/>PlantUML  :
-     - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/QnLyYEqFp8bk3b3LR). They include :
-       - UML Definition
-       - Class diagrams definitons and PlantUML Syntax
+#### <span id="markup_languages"/>Markup Languages
+  - <span id="yaml"/> YAML :
+    - [Flashcards & Notes](https://www.remnote.com/a/yaml/61f447266fa8cd0016ee430e)
+
+- <span id="presentation_languages"/> Presentation Languages
+  - <span id="latex"/> LaTeX :
+    - [Flashcards & Notes](https://www.remnote.com/a/syntax/61f44791264dbc00162a47f1). They include :
+      - Math-mode symbols
+      - Math-mode expressions
+      - Environments
+  - <span id="plant_uml"/>PlantUML  :
+    - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/QnLyYEqFp8bk3b3LR). They include :
+      - UML Definition
+      - Class diagrams definitons and PlantUML Syntax
       
