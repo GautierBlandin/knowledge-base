@@ -345,12 +345,12 @@ Although practical knowledge is both important and necessary (what good is knowl
  
  ### <span id="programming_techniques"/>Programming Techniques
 
-<h5 id="memoization"> Memoization </h4>
+-<span id="memoization"/> Memoization
+  - [Flashcard](https://www.remnote.com/a/memoization/61e69bb6849524001676e1c9)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
+ 
+-<span id="fluent_interface"/> <a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
 
-- [Flashcard](https://www.remnote.com/a/memoization/61e69bb6849524001676e1c9)
-- [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
-
-<h5 id="fluent_interface"><a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
 
 ## Mathematics
 
