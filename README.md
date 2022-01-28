@@ -232,7 +232,7 @@ Although practical knowledge is both important and necessary (what good is knowl
  
  <details>
  
-  <summary><a href="#presentation_languages">Presentation Languages</a>
+  <summary><a href="#presentation_languages">Presentation Languages</summary>
 
  * <a href="#latex">LaTeX</a>
  * <a href="#json">PlantUML</a>
