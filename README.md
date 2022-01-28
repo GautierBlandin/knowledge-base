@@ -1,6 +1,6 @@
 # Knowledge Base
 
-I created this as a compilation of all the self-learning I'm doing in order to provide recruiters with a clear overview of my areas of competence and other students with links to quality learning material.
+I created this as a compilation of most of the self-learning I'm doing in order to provide recruiters with a clear overview of my areas of competence and other students with links to quality learning material.
 
 Every item in the list links to the resources I used to understand it and to the notes and flashcards that I wrote for the item. If applicable, my implementations or related projects are linked too.
 
@@ -204,20 +204,20 @@ Although practical knowledge is both important and necessary (what good is knowl
 <details>
   <summary>Typescript</summary>
   
-  * Type annotations
-  * Interfaces inheritance
+ *<a href="ts_types"> Types & type annotations </a>
+ *<a href="ts_interfaces">Interfaces & interface extension </a>
   
 </details>
 
 <details>
   <summary>Python</summary>
-  
-  * Iterables
-  * Generator expressions
-  * Lists
-  * Strings
-  * Type hinting
-  * Classes
+
+ * <a href="#python_strings">Strings</a>
+ * <a href="#python_lists">Lists</a>
+ * <a href="#python_classes">Classes</a>
+ * <a href="#python_iterables">Iterables</a>
+ * <a href="#python_type_hinting">Type hinting</a>
+ * <a href="#python_collections">Collections</a>
   
 </details>
 
@@ -480,12 +480,28 @@ The only resource used for this section is the excellent book <b>Introduction to
  - <span id="javascript"/> Javascript
    - [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    - [Flashcards & Notes](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c). They include : 
-     - <span id="js_basics"/>Basics
-     - <span id="js_arrays"/>Arrays (basics and a lot of methods)
-     - <span id="js_strings"/>Strings (methods, template literals)
-     - <span id="js_iterables"/>Iterables
-     - <span id="js_objects"/>Objects (iteration, conversion to arrays)
-     - <span id="js_promises"/>Promises
-     - <span id="js_optional_chaining"/>Optional Chaining
-     - <span id="js_local_storage"/>Local Storage
-     - <span id="js_base64_encoding"/>Base64 Encoding/Decoding
+     - <span id="js_basics"/>[Basics](https://www.remnote.com/a/basics/61f296c3b0186500169a3297)
+     - <span id="js_arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f296c3a2e7c600169c2d56) (basics and a lot of methods)
+     - <span id="js_strings"/>[Strings](https://www.remnote.com/a/strings/61f296c353bfe900160ea326) (methods, template literals)
+     - <span id="js_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61f43c5fe0a450001690f3a9)
+     - <span id="js_objects"/>[Objects](https://www.remnote.com/a/objects/61f43c5fe1e55c00168bf545) (iteration, conversion to arrays)
+     - <span id="js_promises"/>[Promises](https://www.remnote.com/a/promises/61f43c5fe95a710016936145)
+     - <span id="js_optional_chaining"/>[Optional Chaining](https://www.remnote.com/a/optional-chaining/61f296c3021aff0016fe3c37)
+     - <span id="js_local_storage"/>[Local Storage](https://www.remnote.com/a/localstorage/61f296c3a2e7c600169c2d53)
+     - <span id="js_base64_encoding"/>[Base64 Encoding/Decoding](https://www.remnote.com/a/base64-encoding/61f296c37613f00016bf958f)
+ 
+ - <span id="typescript"/> Typescript
+   - [Official documentation](https://www.typescriptlang.org/docs/)
+   - [Flashcards & Notes](https://www.remnote.com/a/typescript/61f44064264dbc00162a476b). They include :
+     -<span id="ts_types"/> [Types and Type annotations](https://www.remnote.com/a/types-type-annotations/61f4406403feef001634a93a) (quite detailed)
+     -<span id="ts_interfaces"/> [Interfaces and interface extension](https://www.remnote.com/a/interfaces/61f44064e1e55c00168bf587)
+ 
+ - <span id="python"/> Python
+   - [Official documentaton](https://docs.python.org/3/)
+   - [Flashcards & Notes](https://www.remnote.com/a/python-/61e68c024a52720016f38972). They include :
+     - <span id="python_strings"/>[Strings](https://www.remnote.com/a/strings-/61e68c02849524001676dfc5) (string interpolation)
+     - <span id="python_lists"/>[Lists](https://www.remnote.com/a/lists/61e68c02178e620016e1d2a0) (list comprehenstion)
+     - <span id="python_classes"/>[Classes](https://www.remnote.com/a/classes/61e68c02178e620016e1d2a3) (declaration, constructor, static variables, generic types)
+     - <span id="python_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61e68c024a52720016f3896f) (iteration, generator expressions, methods operating on iterables)
+     - <span id="python_type_hinting"/>[Type hinting](https://www.remnote.com/a/type-hinting/61e68c025624920016fcea0d) (basic usage, type aliasing, callables, ...)
+     - <span id="python_collections"/>[Collections](https://www.remnote.com/a/collections/61e68c02849524001676dfc4)
