@@ -255,9 +255,12 @@ The below knowledge base is a compilation of both practical skills and theoretic
    - [Chaining method, coursera lecture](https://www.coursera.org/learn/data-structures/lecture/2yY2h/chaining-scheme)
    - [Linear probing on wikipedia (preferred method)](https://en.wikipedia.org/wiki/Linear_probing)
  - <span id="heaps_priority_queues"/>[Heaps & Priority Queues](https://www.remnote.com/a/priority-queues-and-heaps/61f2a077b459e3001644256c)
-   - [My implementation](
+   - [My implementation : Max heap & heap sort](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Heaps)
    - [Heap and Heap Sort from MIT Open Courseware](https://www.youtube.com/watch?v=B7hVxCmfPtM)
-  - <span id="binary_trees"/>[Binary Trees](https://www.remnote.com/a/trees/61f2a077021aff0016fe3ce2)
+ - <span id="binary_trees"/>[Binary Search Trees](https://www.remnote.com/a/trees/61f2a077021aff0016fe3ce2)
+   - [My implementation : Simple binary search tree (not AVL or red/black)](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/BinaryTrees)
+   - [Binary search trees from MIT Open Courseware](https://www.youtube.com/watch?v=76dhtgZt38A)
+   - [AVL Trees from MIT Open Courseware](https://www.youtube.com/watch?v=U1JYwHcFfso)
  
  ### <span id="programming_techniques"/>Programming Techniques
 
