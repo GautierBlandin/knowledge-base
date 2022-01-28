@@ -38,7 +38,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
- <summary><a href="#time_space_complexities">Time & Space Complexities</a></summary>
+ <summary><a href="#time_space_complexity">Time & Space Complexities</a></summary>
   
   <ul>
     <li><a href="#big_o"> Big O</a></li>
@@ -223,15 +223,6 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 <h5 id="twelve_factors"> <a href="https://12factor.net/"> Twelve-Factor App </a></h4>
 
-#### <span id="programming_techniques"/>Programming Techniques
-
-<h5 id="memoization"> Memoization </h4>
-
-- [Flashcard](https://www.remnote.com/a/memoization/61e69bb6849524001676e1c9)
-- [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
-
-<h5 id="fluent_interface"><a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
-
 <h4 id="time_space_complexity"> Times & Space Complexity </h4>
 
 - [Flashcards & Notes](https://www.remnote.com/a/time-space-complexity/61e69f27849524001676e1de)
@@ -267,6 +258,15 @@ The below knowledge base is a compilation of both practical skills and theoretic
    - [My implementation](
    - [Heap and Heap Sort from MIT Open Courseware](https://www.youtube.com/watch?v=B7hVxCmfPtM)
   - <span id="binary_trees"/>[Binary Trees](https://www.remnote.com/a/trees/61f2a077021aff0016fe3ce2)
+ 
+ #### <span id="programming_techniques"/>Programming Techniques
+
+<h5 id="memoization"> Memoization </h4>
+
+- [Flashcard](https://www.remnote.com/a/memoization/61e69bb6849524001676e1c9)
+- [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
+
+<h5 id="fluent_interface"><a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
 
 ## Mathematics
 
