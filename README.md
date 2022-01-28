@@ -120,10 +120,10 @@ The below knowledge base is a compilation of both practical skills and theoretic
     <li><a href="#general_random_variables">General Random Variables</a></li>
   </ul>
 
-</details>
+  </details>
 
 <details>
- <summary><h3>Front-end development</h3></summary>
+ <summary>Front-end development</summary>
   
   <ul>
     <li><a href="#css">CSS</a></li>
@@ -135,7 +135,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
- <summary><h3>Back-end development</h3></summary>
+ <summary>Back-end development</summary>
   
   <ul>
     <li><a href="#nest">Nest</a></li>
