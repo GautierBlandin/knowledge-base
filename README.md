@@ -189,12 +189,15 @@ Although practical knowledge is both important and necessary (what good is knowl
 <details>
   <summary>Javascript</summary>
   
-  * Arrays
-  * Strings
-  * Objects
-  * LocalStorage
-  * Optional Chaining
-  * Classes
+ * <a href="#js_basics">Basics</a>
+ * <a href="#js_arrays">Arrays</a>
+ * <a href="#js_strings">Strings</a>
+ * <a href="#js_iterables">Iterables</a>
+ * <a href="#js_objects">Objects</a>
+ * <a href="#js_promises">Promises</a>
+ * <a href="#js_optional_chaining">Optional Chaining</a>
+ * <a href="#js_local_storage">Local Storage</a>
+ * <a href="#js_base64_encoding">Base64 Encoding</a>
   
 </details>
 
