@@ -420,7 +420,7 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Flashcards & Notes](https://www.remnote.com/a/next-js/61f3f5c503feef001634a56a)
    - [Navigation](https://www.remnote.com/a/navigation/61f3f5c503feef001634a567)
    - Font import in a NextJs project
- - <span id="material_ui"/>Material UI
+ - <span id="material_ui"/>Material UI :
    - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/dHo5AosACz4d5Rfs9)
    - [Styling](https://www.remnote.com/w/614f49b8425a7800161dc50b/adKHw7Qz9EbuoZ2Sc)
    - [Spacing](https://www.remnote.com/w/614f49b8425a7800161dc50b/cXRfpRHLWYrYMG8Yn)
@@ -454,7 +454,7 @@ The only resource used for this section is the excellent book <b>Introduction to
      - The Response object
      - Middlewares
 
-#### <span id="node_js"/> NodeJs :
+#### <span id="node_js"/> NodeJs
  - <span id="npm_write_packages"/>[How to write and publish NPM packages (Flashcards & Notes)](https://www.remnote.com/a/writing-npm-packages-/61f4257fe0a450001690f306)
  - <span id="axios"/>Axios
    - [Documentation](https://axios-http.com/docs/intro)
@@ -468,14 +468,14 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Flashcards & Notes (very short)](https://www.remnote.com/a/axios/61f4257f6fa8cd0016ee4170). They include :
      - Basic Usage
  
- #### <span id="web_standards"/>Web Standards :
+ #### <span id="web_standards"/>Web Standards
   - <span id="http_codes"/> HTTP Codes
     - [List of HTTP Codes on Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
     - [Flashcards & Notes](https://www.remnote.com/a/response-codes/61f434bd03feef001634a8af). They include :
       - Successful Reponse
       - Client Error Response
       - Server Error Response
-  - <span id="oauth_2"/> OAuth 2.0 :
+  - <span id="oauth_2"/> OAuth 2.0
     - (paid) Good [Udemy Course](https://www.udemy.com/course/oauth-2-simplified/) on OAuth 2.0 by Aaron Parecki
     - [Flashcards & Notes](https://www.remnote.com/a/oauth-2-0/61f4349ee1e55c00168bf4ee). They include :
       - OAuth 2.0 terminology (Resource owner, user agent, client, authorization server, resource server)
@@ -487,7 +487,7 @@ The only resource used for this section is the excellent book <b>Introduction to
 
 ## Programming Languages
  
-#### <span id="javascript"/> Javascript :
+#### <span id="javascript"/> Javascript
  - [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [Flashcards & Notes](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c). They include : 
    - <span id="js_basics"/>[Basics](https://www.remnote.com/a/basics/61f296c3b0186500169a3297)
@@ -500,13 +500,13 @@ The only resource used for this section is the excellent book <b>Introduction to
    - <span id="js_local_storage"/>[Local Storage](https://www.remnote.com/a/localstorage/61f296c3a2e7c600169c2d53)
    - <span id="js_base64_encoding"/>[Base64 Encoding/Decoding](https://www.remnote.com/a/base64-encoding/61f296c37613f00016bf958f)
  
-#### <span id="typescript"/> Typescript :
+#### <span id="typescript"/> Typescript
   - [Official documentation](https://www.typescriptlang.org/docs/)
   - [Flashcards & Notes](https://www.remnote.com/a/typescript/61f44064264dbc00162a476b). They include :
     -<span id="ts_types"/> [Types and Type annotations](https://www.remnote.com/a/types-type-annotations/61f4406403feef001634a93a) (quite detailed)
     -<span id="ts_interfaces"/> [Interfaces and interface extension](https://www.remnote.com/a/interfaces/61f44064e1e55c00168bf587)
 
-- <span id="python"/> Python :
+- <span id="python"/> Python
   - [Official documentaton](https://docs.python.org/3/)
   - [Flashcards & Notes](https://www.remnote.com/a/python-/61e68c024a52720016f38972). They include :
     - <span id="python_strings"/>[Strings](https://www.remnote.com/a/strings-/61e68c02849524001676dfc5) (string interpolation)
@@ -521,7 +521,7 @@ The only resource used for this section is the excellent book <b>Introduction to
   - <span id="yaml"/> YAML :
     - [Flashcards & Notes](https://www.remnote.com/a/yaml/61f447266fa8cd0016ee430e)
 
-- <span id="presentation_languages"/> Presentation Languages
+#### <span id="presentation_languages"/> Presentation Languages
   - <span id="latex"/> LaTeX :
     - [Flashcards & Notes](https://www.remnote.com/a/syntax/61f44791264dbc00162a47f1). They include :
       - Math-mode symbols
