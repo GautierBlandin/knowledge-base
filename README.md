@@ -164,11 +164,15 @@ Although practical knowledge is both important and necessary (what good is knowl
   
 </details>
 
-### Web Standards
+<details>
+ <summary><a href="web_standards">Web Standards</a></summary>
   
-  * HTTP
-  * OAuth 2.0
-
+  <ul>
+    <li><a href="#http_codes">HTTP Codes</a></li>
+    <li><a href="#oauth_2">OAuth 2.0</a></li>
+  </ul>
+  
+</details>
 
 <!--
 
@@ -374,7 +378,9 @@ The only resource used for this section is the excellent book <b>Introduction to
   - [Normal Random Variable](https://www.remnote.com/a/normal-random-variable/61edcf86424b8d001662214d)
   - [Cumulative Distribution Functions](https://www.remnote.com/a/cumulative-distribution-functions/61edcf8616a9290016b4cc0b)
  
- ## <span id="front_end"/>Front-End Development
+ ## Web Development
+ 
+ #### <span id="front_end"/>Front-End Development
   
  - <span id="css"/> CSS
    - [Flashcards & Notes](https://www.remnote.com/a/css/61f3f92c6fa8cd0016ee3f01)
@@ -407,7 +413,7 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Spacing](https://www.remnote.com/w/614f49b8425a7800161dc50b/cXRfpRHLWYrYMG8Yn)
    - [Theming](https://www.remnote.com/w/614f49b8425a7800161dc50b/b53SwafaECP6K5mB5)
  
- ## <span id="back_end"/>Back-End Development
+ #### <span id="back_end"/>Back-End Development
  
  - <span id = "nest"/> Nest
    - [Official documentation, excellent ressource for the framework and for understanding more about programming](https://docs.nestjs.com/)
@@ -435,7 +441,7 @@ The only resource used for this section is the excellent book <b>Introduction to
      - The Response object
      - Middlewares
 
-## <span id="node_js"/> NodeJs
+#### <span id="node_js"/> NodeJs
  - <span id="npm_write_packages"/>[How to write and publish NPM packages (Flashcards & Notes)](https://www.remnote.com/a/writing-npm-packages-/61f4257fe0a450001690f306)
  - <span id="axios"/>Axios
    - [Documentation](https://axios-http.com/docs/intro)
@@ -449,3 +455,19 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Flashcards & Notes (very short)](https://www.remnote.com/a/axios/61f4257f6fa8cd0016ee4170). They include :
      - Basic Usage
  
+ #### <span id="web_standards"/>Web Standards
+  - <span id="http_codes"/> HTTP Codes
+    - [List of HTTP Codes on Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+    - [Flashcards & Notes](https://www.remnote.com/a/response-codes/61f434bd03feef001634a8af). They include :
+      - Successful Reponse
+      - Client Error Response
+      - Server Error Response
+  - <span id="oauth_2"/> OAuth 2.0
+    - (paid) Good [Udemy Course](https://www.udemy.com/course/oauth-2-simplified/) on OAuth 2.0 by Aaron Parecki
+    - [Flashcards & Notes](https://www.remnote.com/a/oauth-2-0/61f4349ee1e55c00168bf4ee). They include :
+      - OAuth 2.0 terminology (Resource owner, user agent, client, authorization server, resource server)
+      - Confidential/Public client
+      - Front channel/back channel
+      - Authorization Code flow
+      - Authorization Code flow for a Single Page Application
+      - Json Web Token format
