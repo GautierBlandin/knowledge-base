@@ -165,7 +165,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 </details>
 
 <details>
- <summary><a href="web_standards">Web Standards</a></summary>
+ <summary><a href="#web_standards">Web Standards</a></summary>
   
   <ul>
     <li><a href="#http_codes">HTTP Codes</a></li>
@@ -345,11 +345,11 @@ Although practical knowledge is both important and necessary (what good is knowl
  
  ### <span id="programming_techniques"/>Programming Techniques
 
--<span id="memoization"/> Memoization
+- <span id="memoization"/> Memoization
   - [Flashcard](https://www.remnote.com/a/memoization/61e69bb6849524001676e1c9)
   - [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
  
--<span id="fluent_interface"/> <a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
+- <span id="fluent_interface"/> <a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a>
 
 
 ## Mathematics
