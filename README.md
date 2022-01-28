@@ -123,10 +123,6 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 </details>
 
-  * ~Real analysis~
-  * ~Linear Algebra~
-  * ~Analytic Geometry~
-
 ### Web Standards
   
   * HTTP
