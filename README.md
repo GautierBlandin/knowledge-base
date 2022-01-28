@@ -202,15 +202,16 @@ Although practical knowledge is both important and necessary (what good is knowl
 </details>
 
 <details>
-  <summary>Typescript</summary>
+ <summary><a href="#typescript">Typescript</a></summary>
   
- *<a href="ts_types"> Types & type annotations </a>
- *<a href="ts_interfaces">Interfaces & interface extension </a>
+ * <a href="ts_types"> Types & type annotations </a>
+ * <a href="ts_interfaces">Interfaces & interface extension </a>
   
 </details>
 
 <details>
-  <summary>Python</summary>
+ 
+ <summary><a href="#python">Python</a></summary>
 
  * <a href="#python_strings">Strings</a>
  * <a href="#python_lists">Lists</a>
@@ -221,13 +222,23 @@ Although practical knowledge is both important and necessary (what good is knowl
   
 </details>
 
-### Markup Languages
+<details>
+ 
+ <summary><a href="#markup_languages">Markup Languages</a></summary>
 
-  * YAML
-  * JSON
-  * LaTeX
-  * PlantUML
+ * <a href="#yaml">YAML</a>
+ * <a href="#json">JSON</a>
+</details>
+ 
+ <details>
+ 
+  <summary><a href="#presentation_languages">Presentation Languages</a>
 
+ * <a href="#latex">LaTeX</a>
+ * <a href="#json">PlantUML</a>
+   
+</details>
+ 
 --- 
 
 # Details
