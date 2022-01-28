@@ -506,7 +506,7 @@ The only resource used for this section is the excellent book <b>Introduction to
     -<span id="ts_types"/> [Types and Type annotations](https://www.remnote.com/a/types-type-annotations/61f4406403feef001634a93a) (quite detailed)
     -<span id="ts_interfaces"/> [Interfaces and interface extension](https://www.remnote.com/a/interfaces/61f44064e1e55c00168bf587)
 
-####<span id="python"/> Python
+#### <span id="python"/> Python
  - [Official documentaton](https://docs.python.org/3/)
  - [Flashcards & Notes](https://www.remnote.com/a/python-/61e68c024a52720016f38972). They include :
    - <span id="python_strings"/>[Strings](https://www.remnote.com/a/strings-/61e68c02849524001676dfc5) (string interpolation)
