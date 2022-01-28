@@ -121,9 +121,11 @@ The below knowledge base is a compilation of both practical skills and theoretic
   </ul>
 
   </details>
+  
+ ### Web Development 
 
 <details>
- <summary>Front-end development</summary>
+ <summary><a href="front_end">Front-end development</a></summary>
   
   <ul>
     <li><a href="#css">CSS</a></li>
@@ -135,7 +137,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
- <summary>Back-end development</summary>
+ <summary><a href="back_end">Back-end development</a></summary>
   
   <ul>
     <li><a href="#nest">Nest</a></li>
@@ -146,7 +148,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 </details>
 
 <details>
- <summary><h3>NodeJs</h3></summary>
+ <summary><a href="node_js">NodeJs</a></summary>
   
   <ul>
     <li><a href="#npm_write_packages">How to write and publish NPM packages </a></li>
