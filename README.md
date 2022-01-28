@@ -187,7 +187,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 ### Programming languages
   
 <details>
-  <summary>Javascript</summary><br>
+ <summary><a href="javascript">Javascript</a></summary>
   
  * <a href="#js_basics">Basics</a>
  * <a href="#js_arrays">Arrays</a>
@@ -474,3 +474,18 @@ The only resource used for this section is the excellent book <b>Introduction to
       - Authorization Code flow
       - Authorization Code flow for a Single Page Application
       - Json Web Token format
+
+## Programming Languages
+ 
+ - <span id="javascript"/> Javascript
+   - [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+   - [Flashcards & Notes](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c). They include : 
+     - Basics
+     - Arrays (basics and a lot of methods)
+     - Strings (methods, template literals)
+     - Iterables
+     - Objects (iteration, conversion to arrays)
+     - Promises
+     - Optional Chaining
+     - Local Storage
+     - Base64 Encoding/Decoding
