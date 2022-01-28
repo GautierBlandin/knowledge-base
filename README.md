@@ -518,16 +518,16 @@ The only resource used for this section is the excellent book <b>Introduction to
 
  
  - <span id="markup_languages"/>Markup Languages
-   - <span id="yaml"/> YAML
+   - <span id="yaml"/> YAML :
      - [Flashcards & Notes](https://www.remnote.com/a/yaml/61f447266fa8cd0016ee430e)
  
  - <span id="presentation_languages"/> Presentation Languages
-   - <span id="latex"/> LaTeX
+   - <span id="latex"/> LaTeX :
      - [Flashcards & Notes](https://www.remnote.com/a/syntax/61f44791264dbc00162a47f1). They include :
        - Math-mode symbols
        - Math-mode expressions
        - Environments
-   - <span id="plant_uml"/>PlantUML
+   - <span id="plant_uml"/>PlantUML  :
      - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/QnLyYEqFp8bk3b3LR). They include :
        - UML Definition
        - Class diagrams definitons and PlantUML Syntax
