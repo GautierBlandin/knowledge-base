@@ -263,27 +263,31 @@ The below knowledge base is a compilation of both practical skills and theoretic
    - [AVL Trees from MIT Open Courseware](https://www.youtube.com/watch?v=U1JYwHcFfso)
  
  <h3 id="algorithms"> Algorithms </h3>
- 
- - <span id="binary_search"/> Binary Search
+ - [Flashcards & Notes](https://www.remnote.com/a/algorithms/61f3e7a6e0a450001690eadb)
+ - <span id="binary_search"/> [Binary Search](https://www.remnote.com/a/binary-search/61f3e7a603feef001634a45b)
    - [My implementation : Binary search on a sorted array, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
    - [Binary search on wikipedia](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
- - <span id="knuth_shuffle"/> Knuth Shuffle
+ 
+ - <span id="knuth_shuffle"/> [Knuth Shuffle](https://www.remnote.com/a/shuffles/61f3e7a603feef001634a458)
    - [My implementation : Knuth Shuffle of a generic array, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
    - [Shuffling algorithm by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/12vcF/shuffling)
  
  <h4 id="sorting_algorithms"> Sorting Algorithms </h4>
  
  - [Important characteristics](https://www.remnote.com/w/614f49b8425a7800161dc50b/Z7qZ8SqNassAAjr6g)
- - <span id="selection_sort"/> Selection Sort
+ - <span id="selection_sort"/> [Selection Sort](https://www.remnote.com/a/selection-sort/61f3e7b9e0a450001690eaea)
    - [My implementation : Selection sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
    - [Selection sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/VE0sv/selection-sort)
- - <span id="insertion_sort"/> Insertion Sort
+ 
+ - <span id="insertion_sort"/> [Insertion Sort](https://www.remnote.com/a/insertion-sort/61f3e7b96fa8cd0016ee3ded)
    - [My implementation: Insertion sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
    - [Insertion sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/1hYlN/insertion-sort)
- - <span id="merge_sort"/> Merge Sort
+ 
+ - <span id="merge_sort"/> [Merge Sort](https://www.remnote.com/a/merge-sort/61f3e7b9e1e55c00168bf04c)
    - [My implementation : Merge sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
    - [Merge sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/ARWDq/mergesort)
- - <span id="quick_sort"/> Quick Sort
+
+ - <span id="quick_sort"/> [Quick Sort](https://www.remnote.com/a/quick-sort/61f3e7b96fa8cd0016ee3de7)
    - [My implementation : Quick sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
    - [Quick sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/vjvnC/quicksort)
  
