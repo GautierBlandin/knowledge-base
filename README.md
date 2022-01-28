@@ -75,24 +75,15 @@ The below knowledge base is a compilation of both practical skills and theoretic
   </ul>
 
  </details>
- 
- <details>
- <summary><a href="#programming_techniques">Programming Techniques</a></summary>
-  
-  <ul>
-    <li><a href="#memoization"> Memoization</a></li>
-    <li><a href="#fluent_interface"> Fluent interfaces</a></li>
-  </ul>
-  
-</details>
 
 <details>
  <summary><a href="#graph_theory">Graph Theory</a></summary>
   
   <ul>
-    <li><a href="">General Concepts </a></li>
-    <li><a href="">Breadth-first search </a></li>
-    <li><a href="">Depth-first search </a></li>
+    <li><a href="graph_theory_introduction">General Concepts </a></li>
+    <li><a href="graph_theory_common_problems">Common Problems</a></li>
+    <li><a href="graph_theory_algorithms">Breadth-first search </a></li>
+    <li><a href="graph_theory_algorithms">Depth-first search </a></li>
   </ul>
   
 </details>
@@ -103,6 +94,16 @@ The below knowledge base is a compilation of both practical skills and theoretic
   <ul>
     <li><a href="">Optimal sub-structure </a></li>
     <li><a href="">Overlapping sub-problems </a></li>
+  </ul>
+  
+</details>
+
+ <details>
+ <summary><a href="#programming_techniques">Programming Techniques</a></summary>
+  
+  <ul>
+    <li><a href="#memoization"> Memoization</a></li>
+    <li><a href="#fluent_interface"> Fluent interfaces</a></li>
   </ul>
   
 </details>
@@ -287,6 +288,28 @@ The below knowledge base is a compilation of both practical skills and theoretic
  - <span id="quick_sort"/> [Quick Sort](https://www.remnote.com/a/quick-sort/61f3e7b96fa8cd0016ee3de7)
    - [My implementation : Quick sort of an array of integers, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
    - [Quick sort by Sedgewick](https://www.coursera.org/learn/algorithms-part1/lecture/vjvnC/quicksort)
+ 
+ <h3 id="graph_theory"> Graph Theory </h3>
+ 
+ Unfortunately, the main resources that I used to learn this section is a <b> paid </b> one, so I cannot link free resources as I do in most other sections. It is an excellent [Udemy Course](https://www.udemy.com/course/graph-theory-algorithms/) by William Fiset, and I can only recommend it.
+ 
+ - [Flashcards & Notes](https://www.remnote.com/a/graph-theory/61f3ea88e0a450001690eb2b)
+ - <span id="graph_theory_introduction"/> [Introduction](https://www.remnote.com/a/introduction/61f3ea886fa8cd0016ee3e12)
+   - Graph definition
+   - Graph representations
+   - Types of graphs
+ - <span id="graph_theory_common_problems"/> [Common problems](https://www.remnote.com/a/common-problems-in-graph-theory/61f3ea88e0a450001690eb2e)
+   - Shortest path problem
+   - Connectivity
+   - Negative Cycles
+   - Strongly Connected Components
+   - Traveling Salesman Problem
+   - Briges and articulation points
+   - Minimum spanning tree
+   - Network max flow
+ - <span id="graph_theory_algorithms"> [Algorithms](https://www.remnote.com/a/algorithms/61f3ea8803feef001634a470
+   - Breadth-First Search
+   - Depth-First Search
  
  ### <span id="programming_techniques"/>Programming Techniques
 
