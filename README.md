@@ -506,15 +506,15 @@ The only resource used for this section is the excellent book <b>Introduction to
     -<span id="ts_types"/> [Types and Type annotations](https://www.remnote.com/a/types-type-annotations/61f4406403feef001634a93a) (quite detailed)
     -<span id="ts_interfaces"/> [Interfaces and interface extension](https://www.remnote.com/a/interfaces/61f44064e1e55c00168bf587)
 
-- <span id="python"/> Python
-  - [Official documentaton](https://docs.python.org/3/)
-  - [Flashcards & Notes](https://www.remnote.com/a/python-/61e68c024a52720016f38972). They include :
-    - <span id="python_strings"/>[Strings](https://www.remnote.com/a/strings-/61e68c02849524001676dfc5) (string interpolation)
-    - <span id="python_lists"/>[Lists](https://www.remnote.com/a/lists/61e68c02178e620016e1d2a0) (list comprehenstion)
-    - <span id="python_classes"/>[Classes](https://www.remnote.com/a/classes/61e68c02178e620016e1d2a3) (declaration, constructor, static variables, generic types)
-    - <span id="python_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61e68c024a52720016f3896f) (iteration, generator expressions, methods operating on iterables)
-    - <span id="python_type_hinting"/>[Type hinting](https://www.remnote.com/a/type-hinting/61e68c025624920016fcea0d) (basic usage, type aliasing, callables, ...)
-    - <span id="python_collections"/>[Collections](https://www.remnote.com/a/collections/61e68c02849524001676dfc4)
+####<span id="python"/> Python
+ - [Official documentaton](https://docs.python.org/3/)
+ - [Flashcards & Notes](https://www.remnote.com/a/python-/61e68c024a52720016f38972). They include :
+   - <span id="python_strings"/>[Strings](https://www.remnote.com/a/strings-/61e68c02849524001676dfc5) (string interpolation)
+   - <span id="python_lists"/>[Lists](https://www.remnote.com/a/lists/61e68c02178e620016e1d2a0) (list comprehenstion)
+   - <span id="python_classes"/>[Classes](https://www.remnote.com/a/classes/61e68c02178e620016e1d2a3) (declaration, constructor, static variables, generic types)
+   - <span id="python_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61e68c024a52720016f3896f) (iteration, generator expressions, methods operating on iterables)
+   - <span id="python_type_hinting"/>[Type hinting](https://www.remnote.com/a/type-hinting/61e68c025624920016fcea0d) (basic usage, type aliasing, callables, ...)
+   - <span id="python_collections"/>[Collections](https://www.remnote.com/a/collections/61e68c02849524001676dfc4)
 
  
 #### <span id="markup_languages"/>Markup Languages
