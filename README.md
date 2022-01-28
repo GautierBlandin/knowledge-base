@@ -196,9 +196,9 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 ## Computer Science
 
-### <span id="programming_principles"/>Programming Principles
+#### <span id="programming_principles"/>Programming Principles
 
-<h4 id="solid"> SOLID Principles </h4>
+<h5 id="solid"> SOLID Principles </h4>
 
 - <a href="https://www.remnote.com/a/solid-design-principles/61e68e64849524001676e093"> Flashcards & Notes </a>
 - [Single Responsibility Principle](https://en.wikipedia.org/wiki/Single-responsibility_principle)
@@ -207,11 +207,11 @@ The below knowledge base is a compilation of both practical skills and theoretic
 - [Interface Segregation Principle](https://en.wikipedia.org/wiki/Interface_segregation_principle)
 - [Dependency Inversion Principle](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 
-<h4 id="dry"> DRY / AHA </h4>
+<h5 id="dry"> DRY / AHA </h4>
 
 - [Don't Repeat Yourself, but Avoid Hasty Abstractions](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 
-<h4 id="design_patterns"> Design Patterns </h4>
+<h5 id="design_patterns"> Design Patterns </h4>
 
 - [Original GoF book](https://en.wikipedia.org/wiki/Design_Patterns)
 - [Modern approach : refactoring.guru](https://refactoring.guru/design-patterns)
@@ -221,14 +221,16 @@ The below knowledge base is a compilation of both practical skills and theoretic
   - [Structural Patterns](https://www.remnote.com/a/structural-patterns/61a5530bffeb1400164cb357)
   - [Behavioral Patterns](https://www.remnote.com/a/behavioral-patterns/61e6947f4a52720016f389f7)
 
-<h4 id="twelve_factors"> <a href="https://12factor.net/"> Twelve-Factor App </a></h4>
+<h5 id="twelve_factors"> <a href="https://12factor.net/"> Twelve-Factor App </a></h4>
 
-<h4 id="memoization"> Memoization </h4>
+#### <span id="programming_techniques"/>Programming Techniques
+
+<h5 id="memoization"> Memoization </h4>
 
 - [Flashcard](https://www.remnote.com/a/memoization/61e69bb6849524001676e1c9)
 - [Wikipedia](https://en.wikipedia.org/wiki/Memoization)
 
-<h4 id="fluent_interface"><a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
+<h5 id="fluent_interface"><a href="https://en.wikipedia.org/wiki/Fluent_interface"> Fluent Interface </a></h4>
 
 <h4 id="time_space_complexity"> Times & Space Complexity </h4>
 
@@ -238,7 +240,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
   - [Coursera (free)](https://www.coursera.org/learn/data-structures/lecture/hzlEI/amortized-analysis-aggregate-method)
   - Wiki : https://en.wikipedia.org/wiki/Amortized_analysis
  
-#### Datastructures
+ <h4 id="datastructures"> Datastructures </h4>
 
  - [Flashcards & Notes](https://www.remnote.com/a/hash-tables/61f2a07753bfe900160ea37c)
  - <span id="arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f2a077021aff0016fe3ce5)
