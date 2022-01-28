@@ -32,7 +32,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 ### Computer Science
 
 <details>
- <summary><a href="#programming_principles">Programming Principles</a></summary>
+ <summary><a href="#programming_principles">Programming Principles</a></summary><br>
 
   <ul>
     <li><a href="#solid"> SOLID Principles</a></li>
@@ -43,7 +43,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 </details>
 
 <details>
- <summary><a href="#time_space_complexity">Time & Space Complexities</a></summary>
+ <summary><a href="#time_space_complexity">Time & Space Complexities</a></summary><br>
   
   <ul>
     <li><a href="#big_o"> Big O</a></li>
@@ -53,7 +53,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 </details>
 
 <details>
- <summary><a href="#datastructures">Datastructures</a></summary>
+ <summary><a href="#datastructures">Datastructures</a></summary><br>
   
   <ul>
     <li><a href="#arrays"> Arrays</a></li>
@@ -68,7 +68,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 
 <details>
  
- <summary><a href="#algorithms">Algorithms</a></summary>
+ <summary><a href="#algorithms">Algorithms</a></summary><br>
   
   <ul>
     <li><a href="#binary_search">Binary Search </a></li>
@@ -82,7 +82,7 @@ Although practical knowledge is both important and necessary (what good is knowl
  </details>
 
 <details>
- <summary><a href="#graph_theory">Graph Theory</a></summary>
+ <summary><a href="#graph_theory">Graph Theory</a></summary><br>
   
   <ul>
     <li><a href="graph_theory_introduction">General Concepts </a></li>
@@ -95,7 +95,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 
 <!--
 <details>
- <summary><a href="dynamic_programming">Dynamic programming</a></summary>
+ <summary><a href="dynamic_programming">Dynamic programming</a></summary><br>
   
   <ul>
     <li><a href="">Optimal sub-structure </a></li>
@@ -106,7 +106,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 -->
 
  <details>
- <summary><a href="#programming_techniques">Programming Techniques</a></summary>
+ <summary><a href="#programming_techniques">Programming Techniques</a></summary><br>
   
   <ul>
     <li><a href="#memoization"> Memoization</a></li>
@@ -118,7 +118,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 ### Mathematics
   
   <details>
-  <summary><a href="#probabilities_statistics"> Probabilities & Statistics </a></summary>
+  <summary><a href="#probabilities_statistics"> Probabilities & Statistics </a></summary><br>
 
   <ul>
     <li><a href="#sample_space_probability"> Sample Space & Probability</a></li>
@@ -131,7 +131,7 @@ Although practical knowledge is both important and necessary (what good is knowl
  ### Web Development 
 
 <details>
- <summary><a href="front_end">Front-end development</a></summary>
+ <summary><a href="front_end">Front-end development</a></summary><br>
   
   <ul>
     <li><a href="#css">CSS</a></li>
@@ -143,7 +143,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 </details>
 
 <details>
- <summary><a href="back_end">Back-end development</a></summary>
+ <summary><a href="back_end">Back-end development</a></summary><br>
   
   <ul>
     <li><a href="#nest">Nest</a></li>
@@ -154,7 +154,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 </details>
 
 <details>
- <summary><a href="node_js">NodeJs</a></summary>
+ <summary><a href="node_js">NodeJs</a></summary><br>
   
   <ul>
     <li><a href="#npm_write_packages">How to write and publish NPM packages </a></li>
@@ -165,7 +165,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 </details>
 
 <details>
- <summary><a href="#web_standards">Web Standards</a></summary>
+ <summary><a href="#web_standards">Web Standards</a></summary><br>
   
   <ul>
     <li><a href="#http_codes">HTTP Codes</a></li>
@@ -187,7 +187,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 ### Programming languages
   
 <details>
-  <summary>Javascript</summary>
+  <summary>Javascript</summary><br>
   
  * <a href="#js_basics">Basics</a>
  * <a href="#js_arrays">Arrays</a>
