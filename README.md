@@ -196,7 +196,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 ## Computer Science
 
-#### <span id="programming_principles"/>Programming Principles
+### <span id="programming_principles"/>Programming Principles
 
 <h5 id="solid"> SOLID Principles </h4>
 
@@ -223,7 +223,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 <h5 id="twelve_factors"> <a href="https://12factor.net/"> Twelve-Factor App </a></h4>
 
-<h4 id="time_space_complexity"> Times & Space Complexity </h4>
+<h3 id="time_space_complexity"> Times & Space Complexity </h4>
 
 - [Flashcards & Notes](https://www.remnote.com/a/time-space-complexity/61e69f27849524001676e1de)
 - <span id="big_o"/>[Big O](https://en.wikipedia.org/wiki/Big_O_notation)
@@ -231,7 +231,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
   - [Coursera (free)](https://www.coursera.org/learn/data-structures/lecture/hzlEI/amortized-analysis-aggregate-method)
   - Wiki : https://en.wikipedia.org/wiki/Amortized_analysis
  
- <h4 id="datastructures"> Datastructures </h4>
+ <h3 id="datastructures"> Datastructures </h4>
 
  - [Flashcards & Notes](https://www.remnote.com/a/hash-tables/61f2a07753bfe900160ea37c)
  - <span id="arrays"/>[Arrays](https://www.remnote.com/a/arrays/61f2a077021aff0016fe3ce5)
@@ -259,7 +259,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
    - [Heap and Heap Sort from MIT Open Courseware](https://www.youtube.com/watch?v=B7hVxCmfPtM)
   - <span id="binary_trees"/>[Binary Trees](https://www.remnote.com/a/trees/61f2a077021aff0016fe3ce2)
  
- #### <span id="programming_techniques"/>Programming Techniques
+ ### <span id="programming_techniques"/>Programming Techniques
 
 <h5 id="memoization"> Memoization </h4>
 
