@@ -263,6 +263,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
    - [AVL Trees from MIT Open Courseware](https://www.youtube.com/watch?v=U1JYwHcFfso)
  
  <h3 id="algorithms"> Algorithms </h3>
+ 
  - [Flashcards & Notes](https://www.remnote.com/a/algorithms/61f3e7a6e0a450001690eadb)
  - <span id="binary_search"/> [Binary Search](https://www.remnote.com/a/binary-search/61f3e7a603feef001634a45b)
    - [My implementation : Binary search on a sorted array, C++](https://github.com/GautierLearnsProgramming/Datastructures/tree/main/Algorithms)
