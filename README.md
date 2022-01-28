@@ -480,12 +480,12 @@ The only resource used for this section is the excellent book <b>Introduction to
  - <span id="javascript"/> Javascript
    - [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
    - [Flashcards & Notes](https://www.remnote.com/a/javascript/61f296c37613f00016bf958c). They include : 
-     - Basics
-     - Arrays (basics and a lot of methods)
-     - Strings (methods, template literals)
-     - Iterables
-     - Objects (iteration, conversion to arrays)
-     - Promises
-     - Optional Chaining
-     - Local Storage
-     - Base64 Encoding/Decoding
+     - <span id="js_basics"/>Basics
+     - <span id="js_arrays"/>Arrays (basics and a lot of methods)
+     - <span id="js_strings"/>Strings (methods, template literals)
+     - <span id="js_iterables"/>Iterables
+     - <span id="js_objects"/>Objects (iteration, conversion to arrays)
+     - <span id="js_promises"/>Promises
+     - <span id="js_optional_chaining"/>Optional Chaining
+     - <span id="js_local_storage"/>Local Storage
+     - <span id="js_base64_encoding"/>Base64 Encoding/Decoding
