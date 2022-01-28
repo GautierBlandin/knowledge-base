@@ -55,7 +55,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
     <li><a href="#linked_lists"> Linked Lists</a></li>
     <li><a href="#stacks_and_queues"> Stacks & Queues</a></li>
     <li><a href="#hash_tables"> Hash Tables</a></li>
-    <li><a href="#heaps_priority_queue"> Heaps & Priority Queue</a></li>
+    <li><a href="#heaps_priority_queues"> Heaps & Priority Queue</a></li>
     <li><a href="#binary_trees"> Binary Trees</a></li>
   </ul>
 
