@@ -8,11 +8,10 @@ Every item in the list links to the resources I used to understand it, and most 
 
 <details>
 <summary></summary>
-I believe that in order to solve problems efficiently, precise and detailed knowledge of the techniques and technologies available for that propblem space is required. In the case of computer science, it means knowing both the fundamentals of software building (SOLID Principles, datastructures and algorithms, how to do good testing, design patterns...) and having an in-depth knowledge of the nitty-gritty of the syntax and the frameworks we use. <br>
+I believe that in order to solve problems efficiently, precise and detailed knowledge of the techniques and technologies available for a given propblem space is required. In the case of computer science, it means knowing both the fundamentals of software building (SOLID Principles, datastructures and algorithms, how to do good testing, design patterns...) and having an in-depth knowledge of the nitty-gritty of the syntax and the frameworks to be used. <br>
 This represents a lot of knowledge that needs not only to be acquired and understood, but retained over time in order to easily be able to apply it to concrete problems. This is why I dedicate time everyday to reading and practising new skills, and also why I use modern tools (most notably <a href="https://medium.com/@gautier.blandin/remnote-takes-notes-and-remember-them-b2f386aa8f2c"> RemNote</a>) to keep remembering what I learn over time. <br>
 
 </details>
-
 
 <h2> How I learn in practice </h2>
 
@@ -20,11 +19,11 @@ This represents a lot of knowledge that needs not only to be acquired and unders
  <summary></summary>
 I learn a lot doing practical projects, which can be work projects, school projects, and personal projects. When I solve a problem using a method that I find to be interesting, or that taught me some new syntax, I make a note about it. This is how I build my knowledge about <a href="https://www.remnote.com/a/latex/61f2966db459e30016442492">LaTeX</a> over time, or how I learn to use programming languages such as <a href="https://www.remnote.com/a/javascript/61f296c37613f00016bf958c">Javascript</a> or <a href="https://www.remnote.com/a/python-/61e68c024a52720016f38972">Python</a>. That approach has two benefits : 
 <ul>
- <li> I only learn things that I actually use, because I learn them when I need them</li>
- <li>I remember the skill when I need it again, so I don't have to relearn over and over again </li>
+ <li> I only learn things that I actually use, because I learn them as I go</li>
+ <li> I remember the skill when I need it again, so I don't have to relearn over and over again </li>
  </ul><br>
 
-Although practical knowledge is both important and necessary (what good is knowledge if you can't apply it?), I do believe that theory also has its place, as in a lot of situations, what you can do in practice will be limited by your knowledge about what your possibilites are. For example, you could spend your whole life writing cumbersome for-loops in javascript when you could use simple methods such as array.map, simply because you've never read about them. This is why I spend at least one hour everyday on theorical knowledge, on a variety of subjects, such as software building fundamentals, project managements methods, mathematics, frameworks documentation and concepts, etc. I take notes in the form of questions/answers that enter my knowledge base and let me remember the key ideas from what I've read.  <br>
+Although practical knowledge is both important and necessary (what good is knowledge if you can't apply it?), I do believe that theory also has its place, as in a lot of situations, what you can do in practice will be limited by your knowledge about what your possibilites are. For example, you could spend your whole life writing cumbersome for-loops in javascript when you could use simpler methods such as array.map, simply because you've never read about them. This is why I spend at least one hour everyday reading material on theoretical knowledge, on a variety of subjects, such as software building fundamentals, mathematics, frameworks documentation and concepts, etc. I take notes in the form of questions/answers that enter my knowledge base and let me remember the key ideas that I've read.  <br>
 
 </details>
 
