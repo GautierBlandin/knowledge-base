@@ -1,8 +1,8 @@
 # Knowledge Base
 
-I created this as a compilation of all the self-learning I'm doing in order to provide recruiters or other CS students with an overview of my areas of competence and also as a To-Do list that gives me an clear view of the concepts or skills I plan to learn in the near future.
+I created this as a compilation of all the self-learning I'm doing in order to provide recruiters with a clear overview of my areas of competence and other students with links to quality learning material.
 
-Every item in the list links to the resources I used to understand it, and most of them also link to the notes and flashcards that I wrote for the item. If applicable, my implementations or related projects are linked too.
+Every item in the list links to the resources I used to understand it and to the notes and flashcards that I wrote for the item. If applicable, my implementations or related projects are linked too.
 
 <h2>Philosophy</h2>
 
