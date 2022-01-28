@@ -227,7 +227,6 @@ Although practical knowledge is both important and necessary (what good is knowl
  <summary><a href="#markup_languages">Markup Languages</a></summary>
 
  * <a href="#yaml">YAML</a>
- * <a href="#json">JSON</a>
 </details>
  
  <details>
@@ -516,3 +515,20 @@ The only resource used for this section is the excellent book <b>Introduction to
      - <span id="python_iterables"/>[Iterables](https://www.remnote.com/a/iterables/61e68c024a52720016f3896f) (iteration, generator expressions, methods operating on iterables)
      - <span id="python_type_hinting"/>[Type hinting](https://www.remnote.com/a/type-hinting/61e68c025624920016fcea0d) (basic usage, type aliasing, callables, ...)
      - <span id="python_collections"/>[Collections](https://www.remnote.com/a/collections/61e68c02849524001676dfc4)
+
+ 
+ - <span id="markup_languages"/>Markup Languages
+   - <span id="yaml"/> YAML
+     - [Flashcards & Notes](https://www.remnote.com/a/yaml/61f447266fa8cd0016ee430e)
+ 
+ - <span id="presentation_languages"/> Presentation Languages
+   - <span id="latex"/> LaTeX
+     - [Flashcards & Notes](https://www.remnote.com/a/syntax/61f44791264dbc00162a47f1). They include :
+       - Math-mode symbols
+       - Math-mode expressions
+       - Environments
+   - <span id="plant_uml"/>PlantUML
+     - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/QnLyYEqFp8bk3b3LR). They include :
+       - UML Definition
+       - Class diagrams definitons and PlantUML Syntax
+      
