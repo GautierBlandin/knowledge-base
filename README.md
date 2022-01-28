@@ -88,6 +88,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
   
 </details>
 
+<!--
 <details>
  <summary><a href="dynamic_programming">Dynamic programming</a></summary>
   
@@ -97,6 +98,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
   </ul>
   
 </details>
+-->
 
  <details>
  <summary><a href="#programming_techniques">Programming Techniques</a></summary>
