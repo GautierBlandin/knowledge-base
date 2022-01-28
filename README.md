@@ -187,7 +187,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 ### Programming languages
   
 <details>
- <summary><a href="javascript">Javascript</a></summary>
+ <summary><a href="#javascript">Javascript</a></summary>
   
  * <a href="#js_basics">Basics</a>
  * <a href="#js_arrays">Arrays</a>
