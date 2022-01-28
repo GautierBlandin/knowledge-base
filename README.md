@@ -63,7 +63,7 @@ The below knowledge base is a compilation of both practical skills and theoretic
 
 <details>
  
- <summary><a href="#algorithms">Algorithms></a></summary>
+ <summary><a href="#algorithms">Algorithms</a></summary>
   
   <ul>
     <li><a href="">Binary Search </a></li>
