@@ -412,9 +412,13 @@ The only resource used for this section is the excellent book <b>Introduction to
    - [Flashcards & Notes about design guidelines](https://www.remnote.com/a/design/61f3f46e264dbc00162a42d7)
    - [My design exercises done throughout the course](https://github.com/GautierLearnsProgramming/WebDesign)
  - <span id="react"/>React :
+   - Graph algorithms visualization project :
+     - Live version : https://algorithm-visualizer-gautierblandin.vercel.app/
+     - GitHub : https://github.com/GautierBlandin/algorithm-visualizer
    - [Flashcards & Notes](https://www.remnote.com/w/614f49b8425a7800161dc50b/xGmEEdmEBh5Qb6pgh)
    - [React Documentation](https://reactjs.org/docs/getting-started.html)
    - [Context API Flashcards](https://www.remnote.com/a/context/61f3f552e1e55c00168bf12d)
+   - [References](https://www.remnote.com/a/references/61f5a544a548c4001649fe68)
    - [Hooks Flashcards](https://www.remnote.com/a/hooks/61f3f552e1e55c00168bf12c)
  - <span id="next_js"/>NextJS :
    - [Flashcards & Notes](https://www.remnote.com/a/next-js/61f3f5c503feef001634a56a)
