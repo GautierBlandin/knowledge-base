@@ -371,6 +371,14 @@ Although practical knowledge is both important and necessary (what good is knowl
  - <span id="graph_theory_algorithms"> [Algorithms :](https://www.remnote.com/a/algorithms/61f3ea8803feef001634a470)
    - Breadth-First Search
    - Depth-First Search
+   - Tree Center & Rooting ([Python implementation](https://github.com/GautierLearnsProgramming/GraphTheory/tree/main/src/tree_algorithms))
+   - Tree Isomorphism Checking ([Python implementation](https://github.com/GautierLearnsProgramming/GraphTheory/tree/main/src/tree_algorithms))
+   - Topological Sort 
+   - Dijkstra's SSSP Algorithm ([Python implementation](https://github.com/GautierLearnsProgramming/GraphTheory/blob/main/src/sssp_algorithms/dijkstra.py))
+   - Bellman-Ford SSSP Algorithm ([Python implementation](https://github.com/GautierLearnsProgramming/GraphTheory/blob/main/src/sssp_algorithms/bellman_ford.py))
+   - Floyd-Warshal APSP Algorithm ([Python implementation](https://github.com/GautierLearnsProgramming/GraphTheory/blob/main/src/apsp_algorithms/floyd_warshall.py))
+   - Bridge and Articulation points detectino algorithms ([Python implementation](https://github.com/GautierLearnsProgramming/GraphTheory/tree/main/src/bridge_articulation))
+   - Tarjan's Strongly Connected Components Algorithms
  
  ### <span id="programming_techniques"/>Programming Techniques :
 
