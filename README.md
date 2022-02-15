@@ -139,7 +139,7 @@ Although practical knowledge is both important and necessary (what good is knowl
     <li><a href="#vetors">Vectors</a></li>
     <li><a href="#matrices">Matrices</a></li>
    <li><a href="#vector_spaces">Vector Spaces</a></li>
-   <li><a href="#Determinants"Determinants</a></li>
+   <li><a href="#determinants"Determinants</a></li>
   </ul>
 
   </details>
@@ -383,7 +383,7 @@ Although practical knowledge is both important and necessary (what good is knowl
 
 ## Mathematics
 
-<h4 id="probabilities_statistics"> Probabilities & Statistics </h4>
+<h3 id="probabilities_statistics"> Probabilities & Statistics </h3>
 
 The only resource used for this section is the excellent book <b>Introduction to Probability</b> by D. Bertsekas and K. Tsitsiklis which is available <a href = "https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X">here</a>. Because of that, only my notes and flashcards are going to be linked.
 
@@ -428,6 +428,44 @@ The only resource used for this section is the excellent book <b>Introduction to
   - Absorption Probability and Expected Time to Absorption
   - Continuous Markov Chain
   - Continuous Steady State
+ 
+ <h3 id="linear_algebra"> Linear Algebra </h3>
+ 
+ The main resource used as of 15/02/2022 for this subsection is the book "A First Course in Linear Algebra" by Robert A. Beezer, which is downloadable for free [here](http://linear.ups.edu/download/0200waldron.pdf). Linked below are all the notes that I took and learned while reading the book.
+ 
+ - <span id = linear_equations></span>[Linear Equations](https://www.remnote.com/a/linear-algebra/62094c4ac9d3c800163b016f)
+   - System of Linear Equations
+   - Matrices Associated with a System of Equations
+   - Reduced Row Echelon Form
+   - Types of Solution Sets
+   - Homogeneous Systems of Equations
+   - Non Singular Matrices
+ - <span id = vectors></span>[Vectors](https://www.remnote.com/a/vectors/62094c4aedf4c60016d13155)
+   - Vector Operations
+   - Linear Combinations
+   - Spanning Sets
+   - Linear Independence
+   - Linearly Dependent Sets, Spans
+   - Orthogonality
+ - <span id = matrices></span>[Matrices](https://www.remnote.com/a/matrices/62094c493159fb0016042b28)
+   - Definitions and Operations
+   - Matrix Multiplication
+   - Hermitian Matrices
+   - Matrix Inverses and Systems of Linear Equations
+   - Matrix Inverses and Nonsingular Matrices
+   - Unitary Matrices
+   - Column/Row Spaces and Systems of Equations
+   - Four Natural Subsets
+ - <span id = vector_spaces></span>[Vector Spaces](https://www.remnote.com/a/vector-space/62094c4a3159fb0016042b2b)
+   - Vector Space Definition
+   - Properties of Vector Spaces
+   - Subspaces
+   - Spanning Sets
+   - Dimension
+   - Properties of Dimension
+ - <span id = determinant></span>[Determinant](https://www.remnote.com/a/determinants/620c1e89a56fb40016bb0983)
+   - Elementary Matrices
+ - <span id = summary_theorem></span>[Summary Theorem](https://www.remnote.com/a/summary-theorem/620c1e897c99660016e02561)
  
  ## Web Development
  
