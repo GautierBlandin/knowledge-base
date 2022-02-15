@@ -406,7 +406,7 @@ The only resource used for this section is the excellent book <b>Introduction to
   - [Common Continuous Random Variables](https://www.remnote.com/a/common-continuous-random-variables/61edcf8716a9290016b4cc0e)
   - [Normal Random Variable](https://www.remnote.com/a/normal-random-variable/61edcf86424b8d001662214d)
   - [Cumulative Distribution Functions](https://www.remnote.com/a/cumulative-distribution-functions/61edcf8616a9290016b4cc0b)
-- <span id = further_topics_on_random_variables/>[Further Topics on Random Variables](https://www.remnote.com/a/further-topics-on-random-variables/61f3c387264dbc00162a413a)
+ - <span id = further_topics_on_random_variables></span>[Further Topics on Random Variables](https://www.remnote.com/a/further-topics-on-random-variables/61f3c387264dbc00162a413a)
   - Derived Distributions
   - Convolution
   - Covariance and Correlation
