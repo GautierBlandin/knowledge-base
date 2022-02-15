@@ -388,24 +388,24 @@ Although practical knowledge is both important and necessary (what good is knowl
 The only resource used for this section is the excellent book <b>Introduction to Probability</b> by D. Bertsekas and K. Tsitsiklis which is available <a href = "https://www.amazon.com/Introduction-Probability-2nd-Dimitri-Bertsekas/dp/188652923X">here</a>. Because of that, only my notes and flashcards are going to be linked.
 
 - <span id = sample_space_probability></span>[Sample Space and Probability](https://www.remnote.com/a/sample-space-and-probability/61eac608388024001602b7c2)
-  - [Sets](https://www.remnote.com/a/sets/61e80f38268d0a0035d34b18)
-  - [Probabilitic Model](https://www.remnote.com/a/probabilistic-model/61e6f07461d80e00160246b6)
-  - [Conditional Probabilities](https://www.remnote.com/a/conditional-probabilities/61e806aef72a3c00160c2521)
-  - [Bernoulli trials](https://www.remnote.com/a/bernoulli-trials-/61eac608fe181600161c93e3)
-  - [Counting](https://www.remnote.com/a/counting/61eac608fe181600161c93e0)
+  - Sets
+  - Probabilitic Model
+  - Conditional Probabilities
+  - Bernoulli trials
+  - Counting
 - <span id = discrete_random_variables></span>[Discrete Random Variables](https://www.remnote.com/a/discrete-random-variables/61eac6ffc9c6ed00168fb9ee)
-  - [Basic Concepts](https://www.remnote.com/a/basic-concepts/61eac6ff5e4cec001681a8db)
-  - [Common Discrete Random Variables](https://www.remnote.com/a/common-discrete-random-variables/61eac6ff5e4cec001681a8d8)
-  - [Expectation, Mean and Variance](https://www.remnote.com/a/expectation-mean-and-variance/61eac6ff388024001602b7d0)
-  - [Functions of Random Variables](https://www.remnote.com/a/functions-of-random-variables/61eac6fff52a450016cc4e58)
-  - [Joint PMFs](https://www.remnote.com/a/joint-pmfs/61ed2f64d4562d0016d72545)
-  - [Conditional PMFs](https://www.remnote.com/a/conditional-pmfs/61ed2f64d4562d0016d72542)
+  - Basic Concepts
+  - Common Discrete Random Variables
+  - Expectation, Mean and Variance
+  - Functions of Random Variables
+  - Joint PMFs
+  - Conditional PMFs
 - <span id = general_random_variables></span>[General Random Variables](https://www.remnote.com/a/general-random-variables/61edcdab424b8d0016622134)
-  - [Continuous Random Variables](https://www.remnote.com/a/continuous-random-variables-pdfs/61edcf8733d01f00161d6b87)
-  - [Expectation and Variance](https://www.remnote.com/a/expectation-and-variance/61edcf8733d01f00161d6b88)
-  - [Common Continuous Random Variables](https://www.remnote.com/a/common-continuous-random-variables/61edcf8716a9290016b4cc0e)
-  - [Normal Random Variable](https://www.remnote.com/a/normal-random-variable/61edcf86424b8d001662214d)
-  - [Cumulative Distribution Functions](https://www.remnote.com/a/cumulative-distribution-functions/61edcf8616a9290016b4cc0b)
+  - Continuous Random Variables
+  - Expectation and Variance
+  - Common Continuous Random Variables
+  - Normal Random Variable
+  - Cumulative Distribution Functions
 - <span id = further_topics_on_random_variables></span>[Further Topics on Random Variables](https://www.remnote.com/a/further-topics-on-random-variables/61f3c387264dbc00162a413a)
   - Derived Distributions
   - Convolution
