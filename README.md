@@ -85,10 +85,9 @@ Although practical knowledge is both important and necessary (what good is knowl
  <summary><a href="#graph_theory">Graph Theory</a></summary>
   
   <ul>
-    <li><a href="graph_theory_introduction">General Concepts </a></li>
-    <li><a href="graph_theory_common_problems">Common Problems</a></li>
-    <li><a href="graph_theory_algorithms">Breadth-first search </a></li>
-    <li><a href="graph_theory_algorithms">Depth-first search </a></li>
+    <li><a href="#graph_theory_introduction">General Concepts </a></li>
+    <li><a href="#graph_theory_common_problems">Common Problems</a></li>
+    <li><a href="#graph_theory_algorithms">Algorithms </a></li>
   </ul>
   
 </details>
@@ -352,7 +351,7 @@ Although practical knowledge is both important and necessary (what good is knowl
  
  <h3 id="graph_theory"> Graph Theory </h3>
  
- Unfortunately, the main resources that I used to learn this section is a <b> paid </b> one, so I cannot link free resources as I do in most other sections. It is an excellent [Udemy Course](https://www.udemy.com/course/graph-theory-algorithms/) by William Fiset, and I can only recommend it.
+ Unfortunately, the main resource that I used to learn this section is a <b> paid </b> one, so I cannot link free resources as I do in most other sections. It is an excellent [Udemy Course](https://www.udemy.com/course/graph-theory-algorithms/) by William Fiset, and I can only recommend it.
  
  - [Flashcards & Notes](https://www.remnote.com/a/graph-theory/61f3ea88e0a450001690eb2b)
  - <span id="graph_theory_introduction"/> [Introduction :](https://www.remnote.com/a/introduction/61f3ea886fa8cd0016ee3e12)
