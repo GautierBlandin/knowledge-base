@@ -139,7 +139,7 @@ Although practical knowledge is both important and necessary (what good is knowl
     <li><a href="#vetors">Vectors</a></li>
     <li><a href="#matrices">Matrices</a></li>
    <li><a href="#vector_spaces">Vector Spaces</a></li>
-   <li><a href="#determinants"Determinants</a></li>
+   <li><a href="#determinants">Determinants</a></li>
   </ul>
 
   </details>
