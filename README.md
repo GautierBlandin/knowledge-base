@@ -124,6 +124,22 @@ Although practical knowledge is both important and necessary (what good is knowl
     <li><a href="#sample_space_probability"> Sample Space & Probability</a></li>
     <li><a href="#discrete_random_variables">Discrete Random Variables</a></li>
     <li><a href="#general_random_variables">General Random Variables</a></li>
+   <li><a href="#further_topics_on_random_variables">Further Topics on Random Variables</a></li>
+   <li><a href="#limits_theorems"Limits Theorems</a></li>
+   <li><a href="#Markov Chains">Markov Chains </a></li>
+  </ul>
+
+  </details>
+  
+  <details>
+  <summary><a href="#linear_algebra"> Linear Algebra </a></summary>
+
+  <ul>
+    <li><a href="#linear_equations"> Linear Equations</a></li>
+    <li><a href="#vetors">Vectors</a></li>
+    <li><a href="#matrices">Matrices</a></li>
+   <li><a href="#vector_spaces">Vector Spaces</a></li>
+   <li><a href="#Determinants"Determinants</a></li>
   </ul>
 
   </details>
